@@ -1,0 +1,12 @@
+---
+title: "Sobre el proyecto"
+format: 
+  html:
+    theme: [dark, custom.scss]
+    grid:
+      body-width: 600px
+fontcolor: white
+backgroundcolor: black
+---
+
+Hola

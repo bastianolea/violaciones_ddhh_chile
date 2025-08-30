@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    background-color: black;
+    line-height: 1.1 !important;
+    text-align: center;
+  }
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+h2, h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  border: none !important;
+  font-size: 22pt !important;
+  font-weight: bold !important;
+  text-align: center !important;
+  color: red !important;
+  text-transform: uppercase !important;
+  line-height: 1 !important;
+}
+
+.subtitulo {
+  color: blue;
+  font-size: 18pt !important;
+  text-align: center !important;
+}
+
+.nota {
+    vertical-align: super;
+    font-size: 50%;
+}

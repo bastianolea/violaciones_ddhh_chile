@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    title: "Infografía"
+    background: black
+    foreground: white
+    search: false
+    pinned: false
+    collapse: false
+    tools-collapse: false
+    left:
+      - text: "Fuentes"
+        href: fuentes.qmd
+      - text: "Sobre el proyecto"
+        href: sobre.qmd
+      # - text: "Apps"
+      #   href: https://bastianolea.github.io/shiny_apps/
+      # - text: "Blog"
+      #   href: https://bastianolea.rbind.io/blog/
+      # - text: "Tutoriales"
+      #   href: https://bastianolea.rbind.io/categories/tutoriales/
+      # - text: "Yo"
+      #   href: https://bastianolea.rbind.io/about/
+      # - text: "Contacto"
+      #   href: https://bastianolea.rbind.io/contact/
+    right:
+      - icon: globe
+        href: https://bastianolea.rbind.io
+      - icon: twitter
+        href: https://bsky.app/profile/bastianolea.rbind.io
+      - icon: github
+        href: https://github.com/bastianolea?tab=repositories
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bastianolea/
+
+format:
+  html:
+    toc: false
+
+
+
