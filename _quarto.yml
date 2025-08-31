@@ -3,10 +3,21 @@ project:
   output-dir: docs
 
 website:
+  title: "Violaciones a los Derechos Humanos en dictadura"
+  favicon: donde_estan.jpg
+  site-url: "https://bastianolea.github.io/violaciones_ddhh_chile/"
+  open-graph: true
+  twitter-card: true
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Ayuda:** cualquier idea, aporte o corrección a esta infografía es bienvenido. Por favor [contáctame](https://bastianolea.rbind.io/contact/)!"
+  #   type: dark
+  #   position: below-navbar
   navbar:
     title: "Infografía"
     background: black
-    foreground: white
+    foreground: "#E7E7E7"
     search: false
     pinned: false
     collapse: false
@@ -14,7 +25,7 @@ website:
     left:
       - text: "Fuentes"
         href: fuentes.qmd
-      - text: "Sobre el proyecto"
+      - text: "Proyecto"
         href: sobre.qmd
       # - text: "Apps"
       #   href: https://bastianolea.github.io/shiny_apps/

@@ -22,11 +22,13 @@ lang: es
 
 <!-- ![]("img/violaciones_ddhh_chile_4.png") -->
 
-Amplio es el prontuario en materia de derechos humanos que aún pesa sobre la dictadura militar. 
+Amplio es el prontuario en materia de violación a los derechos humanos que pesa sobre la dictadura cívico-militar chilena. 
 
-El uso de violencia durante tal periodo se volvió política de Estado, y la eliminación selectiva de ciudadanos específicos benefició directamente los objetivos político-económicos del régimen de Pinochet. 
+El uso de la violencia entre 1973 y 1989 no fueron errores ni excesos: fue política de Estado. La eliminación selectiva de ciudadanos y ciudadanas contribuyó directamente a los objetivos políticos e ideológicos del régimen encabezado por el dictador Augusto Pinochet Ugarte. 
 
-La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y redes más cercanas de las víctimas, y un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con tanta sangre chilena continúa más vivo que nunca.
+La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y el entorno social de las víctimas, así como un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con sangre chilena continúa más vivo que nunca.
+
+Esta infografía busca resumir las atrocidades cometidas por la dictadura, basándose en informes oficiales y de organizaciones de derechos humanos.
 
 ## Detenciones
 
@@ -179,7 +181,7 @@ Miles de chilenas y chilenos decidieron salir del país para proteger su vida o 
 
 Pero también la dictadura usó el exilio como mecanismo para **remover opositores y enemigos políticos**: en 1973 se instaura el _decreto 81_, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (…) que a juicio del Gobierno constituyan un **peligro** para el Estado”.
 
-## Desapariciones forzadas
+## Desaparecidos
 
 ::: {.titulo}
 1.193 detenidos desaparecidos[2]{.nota}
@@ -338,3 +340,13 @@ La DINA fue la **policía secreta** de la dictadura, creada específicamente par
 **13**: _Historia procesal de Juan Manuel Contreras Sepúlveda en la Corte Suprema_, 2015, Observatorio de Justicia Transicional UDP y Centro de Derechos Humanos UDP.
 
 **14:** [_¿Qué pasó con sus hijos?: las diez detenidas embarazadas que la dictadura hizo desaparecer._](https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-150) Museo de la Memoria y los Derechos Humanos
+
+<br>
+
+----
+
+:::: {style="margin-top:48px; font-size: 80%;"}
+
+Diseñado y producido por [Bastián Olea Herrera](https://bastianolea.rbind.io), con el apoyo de decenas de personas a lo largo de los años. Por favor [contáctame](https://bastianolea.rbind.io/contact/) para agregar información nueva o cualquier corrección.
+
+::::
