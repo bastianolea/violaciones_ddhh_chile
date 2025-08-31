@@ -3,4 +3,25 @@ title: "fuentes"
 format: html
 ---
 
-Hola
+
+**1**: Informe de la Comisión Nacional sobre Prisión Política y Tortura (Informe Valech).
+
+**2**: Informe de la Comisión Nacional de Verdad y Reconciliación (Informe Rettig).
+
+**3**: Comisión Chilena de Derechos Humanos.
+
+**4**: Amnistía Internacional.
+
+**5**: Comisión de Derechos Humanos de las Naciones Unidas.
+
+**6**: Memoria Viva.
+
+**7**: Asociación de Familiares de Detenidos Desaparecidos, 1995.
+
+**8**: Vicaría de la Solidaridad, 1993.
+
+**9**: Informe de la Comisión ética contra la tortura (CECT) a Ricardo Lagos (2001) y CODEPU.
+
+**10**: Ejecuciones en Chile septiembre-diciembre 1973: El circuito burocrático de la muerte, ArchivosChile, 2012.
+
+**11**: La misión era matar: el juicio a la caravana Pinochet-Arellano. Jorge Escalante Hidalgo. Lom Editores. 2000.

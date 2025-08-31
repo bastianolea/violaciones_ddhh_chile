@@ -1,94 +1,202 @@
 ---
 format: 
   html:
+    toc: true
+    toc-title: Índice
+    toc-location: right
+    anchor-sections: false # remove anchor link
     theme: custom.scss
-    # grid:
-    #   body-width: 600px
-fontcolor: white
-backgroundcolor: black
+    grid:
+      body-width: 500px
+fontfamily: Barlow
+lang: es
 ---
 
 
-<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
-<!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
-<!-- <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"> -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 
-![](img/violaciones_ddhh_chile_3.png)
+![](img/violaciones_ddhh_chile_3.png){fig-alt="VIOLACIONES A LOS DERECHOS HUMANOS COMETIDAS POR LA DICTADURA CÍVICO-MILITAR CHILENA"}
 
 <!-- ![]("img/violaciones_ddhh_chile_4.png") -->
 
 Amplio es el prontuario en materia de derechos humanos que aún pesa sobre la dictadura militar. El uso de violencia durante tal periodo se volvió política de Estado, y la eliminación selectiva de ciudadanos específicos benefició directamente los objetivos político-económicos del régimen de Pinochet. La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y redes más cercanas de las víctimas, y un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con tanta sangre chilena continúa más vivo que nunca.
 
-## 33.221 civiles detenidos[1]{.nota}<br>[por motivos políticos]{.subtitulo}
+## Detenciones
 
-Al disolverse los derechos de libre reunión de grupos de personas en las calles, aplicarse un toque de queda que duraría 14 años, y llevarse a cabo una constante lucha contra determinadas agrupaciones sociales e ideas políticas, el régimen dictatorial hizo amplio uso de detenciones policiales como forma de represión directa y amedrentamiento. A través de las detenciones se nutrían las organizaciones de inteligencia y se reprimía la oposición, generando así condiciones para la consolidación política del régimen.
+::: {.titulo}
+33.221 civiles detenidos[1]{.nota} <br>[por motivos políticos]{.subtitulo}
+:::
+
+
+Al disolverse los derechos de libre reunión de grupos de personas en las calles, aplicarse un toque de queda que duraría 14 años, y llevarse a cabo una constante lucha contra determinadas agrupaciones sociales e ideas políticas, el régimen dictatorial hizo amplio uso de detenciones policiales como forma de represión directa y amedrentamiento. 
+
+::: {.column-margin}
+Texto lateral
+:::
 
 ![](img/violaciones_ddhh_chile_5.png)
 
-### Detenciones por período[1]{.nota}
+A través de las detenciones se nutrían las organizaciones de inteligencia y se reprimía la oposición, generando así condiciones para la consolidación política del régimen.
+
+::: {.subtitulo style="margin-top:30px;margin-bottom: -20px;"}
+Detenciones por período[1]{.nota}
+:::
+
 ![](img/violaciones_ddhh_chile_6.png)
 
-## 9.794 prisioneros políticos
+## Prisioneros políticos
+
+::: {.titulo}
+9.794 prisioneros políticos
+:::
+
+::: {style="margin-top: -16px; margin-bottom: -12px;"}
 ![](img/violaciones_ddhh_chile_7.png)
+:::
 
-Los centros de detención tuvieron un rol vital en la política de represión dictatorial. Estos lugares serían establecidos con el solo propósito de llevar a cabo, en forma sistematizada y en total impunidad, delitos de terrorismo de Estado.
+Los centros de detención tuvieron un rol vital en la política de represión dictatorial. Estos lugares serían establecidos con el solo propósito de llevar a cabo, en forma sistematizada y en total impunidad, actos de terrorismo de Estado.
 
-Comisarías, regimientos, escuelas, edificios públicos y casas particulares son algunos de los lugares que serían utilizados con estos fines. Algunos de los más iconicos conocidos son el Estadio Nacio-nal, Isla Dawson, Villa Grimaldi, Londres 38, la Venda Sexy, Londres 38, entre otros miles[6]{.nota}
+Comisarías, regimientos, escuelas, edificios públicos y casas particulares son algunos de los lugares que serían utilizados con estos fines. Algunos de los más conocidos son el Estadio Nacional, Isla Dawson, Villa Grimaldi, Londres 38, la Venda Sexy, entre otros[6]{.nota}
 
 ![](img/violaciones_ddhh_chile_8.png)
 
-## 24.529 personas torturadas[1]{.nota}
+## Torturas
 
-Una enorme cantidad de los detenidos durante la dictadura fueron sometidos sistemáticamente a terribles vejámenes, tormentos y humillaciones por sus captores. El objetivo de estos actos inhumanos (cometidos en su mayoría por ciudadanos que hoy siguen en libertad) fue principalmente el obtener información, pero más allá de este criterio funcional, la consecuencia directa de la tortura era el ejercer gobierno a través del terror, tanto sobre las víctimas directas como en el general de la población que poco a poco tomaba conocimiento de lo que podía costarles el oponerse a la dictadura.
+::: {.titulo}
+24.529 víctimas de torturas[1]{.nota}
+:::
+
+Una enorme cantidad de los detenidos durante la dictadura fueron sometidos sistemáticamente a terribles **vejámenes, tormentos y humillaciones** por sus captores.
 
 ![](img/violaciones_ddhh_chile_9.png)
 
+El objetivo de estos actos inhumanos (cometidos en su mayoría por ciudadanos que hoy siguen en libertad) fue principalmente el **extraer información**, pero más allá de este criterio funcional, la consecuencia directa de la tortura era el ejercer **gobierno a través del terror**, tanto sobre las víctimas directas como en el general de la población que poco a poco tomaba conocimiento de lo que podía costarles el oponerse a la dictadura.
+
 ![](img/violaciones_ddhh_chile_10.png)
 
-### Frecuencia de los diferentes tipos de tortura ejercidos[9]{.nota}
+::: {.subtitulo}
+Frecuencia de los diferentes tipos de tortura[9]{.nota}
+:::
 
 ![](img/violaciones_ddhh_chile_11.png)
 
-## 2.279 asesinados y ejecutados[2]{.nota}<br>[por el Estado y las fuerzas de la Dictadura]{.subtitulo}
+## Asesinatos
+
+::: {.titulo}
+2.279 personas asesinadas o ejecutadas[2]{.nota}<br>[por el Estado y las fuerzas de la Dictadura]{.subtitulo}
+:::
 
 Numerosas operaciones llevadas a cabo durante la dictadura involucraron la ejecución a sangre fría de civiles. En los centros de detención, se llamó entre las multitudes a determinados individuos para su ejecución pública. En allanamientos de viviendas o redadas en poblaciones, el uso de fuerza letal también era común.
 
+::: {style="margin-bottom: -18px; margin-top: -12px;"}
+![](img/violaciones_ddhh_chile_13b.png)
+:::
+
 Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestantes eran blancos recurrentes. El resultado de esta brutal tendencia al abuso del poder militar es un amplio prontuario de ejecutados políticos que califican como violaciones a los derechos humanos.
 
-Sólo entre el 11 de septiembre y el 31 de octubre de 1973 se reportaron: 105 heridos de bala y 802 muertos que califican como ejecutados políticos.
 
-![](img/violaciones_ddhh_chile_12.png)
+![](img/violaciones_ddhh_chile_13a.png)
 
-![](img/violaciones_ddhh_chile_13.png)
 
-Comitiva dirigida por el general Sergio Arellano Stark bajo mandato directo de Pinochet que recorrió el país en helicóptero con el objetivo de “acelerar procesos” en las provincias; es decir, enseñar al resto de los uniformados el “trato” que merecían los “extremistas”.
 
+::: {.titulo .subtitulo}
+La Caravana de la Muerte
+:::
+
+:::: {.columns}
+
+::: {.column width="55%" style="margin-top:8px; text-justify: left; text-align: left;"}
+
+Comitiva dirigida por el general Sergio Arellano Stark bajo mandato directo de Pinochet, que recorrió el país en helicóptero con el objetivo de “acelerar procesos” en las provincias; es decir, enseñar al resto de los uniformados el “trato” que merecían los “extremistas”.
+
+La caravana dejó un saldo de más de 90 personas, 26 muertos tras su paso por el sur de Chile y 71 muertos en el norte del país. Sus hechos no se dieron a conocer sino hasta que terminó el régimen.
+
+:::
+
+::: {.column width="45%"}
 
 ![](img/violaciones_ddhh_chile_14.png)
 
+:::
+::::
+
+::: {.titulo .subtitulo}
+Operación Albania
+:::
+
 ![](img/violaciones_ddhh_chile_15.png)
 
-Se produjo entre el 15 y 16 de junio de 1987. La CNI hizo uso minucioso de inteligencia obtenida luego del frustrado magnicidio de 1986 y de otras operaciones reprimidas, lo cual –junto a extensos seguimientos de las víctimas– posibilitó a la institución dar con los domicilios, sedes operativas o rutas de desplazamiento de los doce militantes del Frente Patriótico Manuel Rodríguez. Los hechos fueron encubiertos por las autoridades como “enfrentamientos”.
+Se produjo entre el 15 y 16 de junio de 1987. La CNI hizo uso minucioso de inteligencia obtenida luego del frustrado magnicidio de 1986 y de otras operaciones reprimidas, lo cual –junto a extensos seguimientos de las víctimas– posibilitó a la institución dar con los domicilios, sedes operativas o rutas de desplazamiento de 12 militantes del Frente Patriótico Manuel Rodríguez. Sus **asesinatos** fueron encubiertos por las autoridades como “enfrentamientos”.
+
+
+::: {.titulo .subtitulo}
+Ejecutados por año
+:::
 
 ![](img/violaciones_ddhh_chile_16.png)
 
-## Más de 200.000 exiliados[3]{.nota}<br>[repartidos entre casi 50 países]{.subtitulo}
+## Exiliados
 
-Miles de personas optaron por escapar del país para proteger su vida o la de sus seres queridos. Otros pudieron conmutar sus condenas por el exilio, con la condición de no poder regresar al país. Pero también la dictadura usó el exilio como mecanismo para remover a sus opositores y enemigos políticos: en 1973 se instaura el decreto 81, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (...) que a juicio del Gobierno constituyan un peligro para el Estado”.
+::: {.titulo}
+Más de 200.000 exiliados[3]{.nota}<br>[repartidos entre casi 50 países]{.subtitulo}
+:::
 
+Miles de chilenas y chilenos decidieron salir del país para proteger su vida o la de sus seres queridos. Otros pudieron conmutar sus condenas por el exilio, con la condición de no poder regresar al país. 
 
 ![](img/violaciones_ddhh_chile_19.png)
 
-## 1.193 detenidos desaparecidos[2]{.nota}
+Pero también la dictadura usó el exilio como mecanismo para **remover opositores y enemigos políticos**: en 1973 se instaura el _decreto 81_, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (…) que a juicio del Gobierno constituyan un **peligro** para el Estado”.
+
+## Desapariciones forzadas
+
+::: {.titulo}
+1.193 detenidos desaparecidos[2]{.nota}
+:::
+
 ![](img/violaciones_ddhh_chile_20.png)
-Padres y madres, hijos e hijas, hermanos y hermanas, compañeros y compañeras, fueron secuestrados desde sus casas (28,6%), lugar de trabajo (11,3%) o de la vía pública (24,3%) por agentes de la dictadura, para nunca más volver a ser vistos por sus seres queridos. Esta práctica de eliminación selectiva también se constituyó en un método recurrentemente usado por organismos represores para llevar a cabo asesinatos y ejecuciones y posteriormente ocultar toda evidencia, encubriendo los hechos a través de la desaparición del cadáver y la manipulación de informes y pericias, para así salir impunes de los crímenes.
+Padres y madres, hijos e hijas, hermanos y hermanas, compañeros y compañeras, fueron secuestrados desde sus casas (28,6%), lugar de trabajo (11,3%) o de la vía pública (24,3%) por agentes de la dictadura, para nunca más volver a ser vistos por sus seres queridos. 
 
 ![](img/violaciones_ddhh_chile_21.png)
 
-![](img/violaciones_ddhh_chile_22.png)
+Esta práctica de eliminación selectiva también se constituyó en un método recurrentemente usado por organismos represores para llevar a cabo asesinatos y ejecuciones, y posteriormente ocultar toda evidencia, encubriendo los hechos a través de la desaparición del cadáver y la manipulación de informes y pericias, **asegurando la impunidad** de los crímenes.
+
+::: {.subtitulo style="margin-top:32px;"}
+Detenidos desaparecidos según su ocupación
+:::
+
+![](img/violaciones_ddhh_chile_22a.png)
+
+::: {.subtitulo style="margin-top:32px;"}
+Detenidos desaparecidos según región del país
+:::
+
+Los agentes de la dictadura, apoyados por civiles, desaparecieron compatriotas a través de casi todo el territorio nacional.
+
+![](img/violaciones_ddhh_chile_22b.png)
+
+Más de la mitad de las desapariciones ocurrieron en la Región Metropolitana.
+
+
+::: {.subtitulo style="margin-top:32px;"}
+Desapariciones forzadas por año
+:::
+
+La gran mayoría de las desapariciones se llevaron a cabo durante los primeros años de la dictadura, la cual actuó con rapidez para erradicar toda forma de oposición u organización política.
 
 ![](img/violaciones_ddhh_chile_23.png)
+
+## Responsables
+
+::: {.titulo style="margin-bottom:20px;"}
+Instituciones que llevaron a cabo detenciones[2]{.nota}
+:::
+
+Las principales organizaciones e instituciones del Estado que participaron en estas atrocidades fueron: la **Dirección de Inteligencia Nacional** (DINA), **Carabineros de Chile**, y el **Ejército de Chile**.
+
+La DINA fue la **policía secreta** de la dictadura, creada específicamente para llevar a cabo **operaciones clandestinas**. En 1977 fue reemplazada por la Central Nacional de Informaciones (CNI). 
 
 ![](img/violaciones_ddhh_chile_24.png)
 
