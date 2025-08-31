@@ -21,3 +21,4 @@ lang: es
 - Ejecuciones en Chile septiembre-diciembre 1973: El circuito burocrático de la muerte, ArchivosChile, 2012.
 _ _La misión era matar: el juicio a la caravana Pinochet-Arellano._ Jorge Escalante Hidalgo. Lom Editores. 2000.
 - _Historia procesal de Juan Manuel Contreras Sepúlveda en la Corte Suprema,_ Observatorio de Justicia Transicional UDP y Centro de Derechos Humanos UDP, 2015.
+- [_¿Qué pasó con sus hijos?: las diez detenidas embarazadas que la dictadura hizo desaparecer._](https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-150) Museo de la Memoria y los Derechos Humanos

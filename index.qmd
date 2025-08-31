@@ -206,11 +206,79 @@ Se contabilizan más de **60 mujeres** detenidas desaparecidas por la dictadura 
 
 ![](img/mujeres_dddd.jpeg)
 
-![](img/embarazadas_dddd_a.jpg)
+::: {.subtitulo style="margin-top:42px;"}
+Detenidas desaparecidas embarazadas[14]{.nota}
+:::
 
-![](img/embarazadas_dddd_b.jpg)
+10 mujeres fueron desaparecidas por la dictadura encontrándose **embarazadas**. No se sabe si llegaron a dar a luz, o si sus hijos fueron entregados en **adopción ilegal**. El silencio de los victimarios y sus cómplices ha mantenido en la oscuridad el capítulo más cruel de la política de exterminio ejecutada en Chile.[14]{.nota}
 
-::: {.subtitulo style="margin-top:32px;"}
+:::: {.columns}
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Michelle Marguerite Peña Herreros.jpg){fig-alt="Michelle Marguerite Peña Herreros"}
+<br><br>
+**Michelle Marguerite Peña Herreros**, 8 meses de embarazo.
+:::
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Reinalda del Carmen Pereira Plaza.png){fig-alt="Reinalda del Carmen Pereira Plaza"}
+<br><br>
+**Reinalda del Carmen Pereira Plaza**, 6 meses de embarazo.
+:::
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Cecila Miguelina Bojanic Abad.jpg){fig-alt="Cecila Miguelina Bojanic Abad"}
+<br><br>
+**Cecila Bojanic Abad**, 4 1/2 meses de embarazo.
+:::
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Elizabeth Mercedes Rekas Urra.jpg){fig-alt="Elizabeth Mercedes Rekas Urra"}
+<br><br>
+**Elizabeth Mercedes Rekas Urra**, 4 meses de embarazo.
+::: 
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Diana Frida Arón Svigilsky.jpg){.foto-embarazada fig-alt="Diana Frida Arón Svigilsky"}
+<br><br>
+**Diana Frida Arón Svigilsky**, 3 1/2 meses de embarazo.
+::: 
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Jacqueline Paulette Drouilly Yurich.jpg){fig-alt="Jacqueline Paulette Drouilly Yurich"}
+<br><br>
+**Jacqueline Paulette Drouilly Yurich**, 3 meses de embarazo.
+::: 
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Mónica del Carmen Pacheco Sánchez.jpg){fig-alt="Mónica del Carmen Pacheco Sánchez"}
+<br><br>
+**Mónica del Carmen Pacheco Sánchez**, 3 meses de embarazo.
+::: 
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Nalvia Rosa Mena Alvarado.jpg){fig-alt="Nalvia Rosa Mena Alvarado"}
+<br><br>
+**Nalvia Rosa Mena Alvarado**, 3 meses de embarazo.
+::: 
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/María Cecilia Labrín Sazo.jpg){fig-alt="María Cecilia Labrín Sazo"}
+<br><br>
+**María Cecilia Labrín Sazo**, 2 meses de embarazo.
+::: 
+
+::: {.column .embarazadas width="33%"}
+![](img/embarazadas/Gloria Esther Lagos Nilsson.jpg){fig-alt="Gloria Esther Lagos Nilsson"}
+<br><br>
+**Gloria Esther Lagos Nilsson**, 2 meses de embarazo.
+::: 
+
+:::: 
+
+
+
+::: {.subtitulo style="margin-top:10px;"}
 Detenidos desaparecidos según región del país
 :::
 
@@ -267,4 +335,6 @@ La DINA fue la **policía secreta** de la dictadura, creada específicamente par
 
 **12**: Según el informe Valech, el número corresponde a mujeres que confesaron espontáneamente durante interrogaciones que no estaban directamente dirigidas a la violencia sexual. Esto, sumado a la complejidad de confesar el sufrimiento de una violación sexual, sugiere que el número real es mucho mayor.
 
-**13**: Historia procesal de Juan Manuel Contreras Sepúlveda en la Corte Suprema, 2015, Observatorio de Justicia Transicional UDP y Centro de Derechos Humanos UDP.
+**13**: _Historia procesal de Juan Manuel Contreras Sepúlveda en la Corte Suprema_, 2015, Observatorio de Justicia Transicional UDP y Centro de Derechos Humanos UDP.
+
+**14:** [_¿Qué pasó con sus hijos?: las diez detenidas embarazadas que la dictadura hizo desaparecer._](https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-150) Museo de la Memoria y los Derechos Humanos
