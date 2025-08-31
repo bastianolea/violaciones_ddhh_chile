@@ -49,7 +49,7 @@ Detenciones por período[1]{.nota}
 
 La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
 
-![](img/fotos_1.jpg)
+![](img/fotos_1.jpg){style="margin-top:18px;"}
 
 ## Prisioneros políticos
 
