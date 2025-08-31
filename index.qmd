@@ -47,6 +47,10 @@ Detenciones por período[1]{.nota}
 
 ![](img/violaciones_ddhh_chile_6.png)
 
+La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
+
+![](img/fotos_1.jpg)
+
 ## Prisioneros políticos
 
 ::: {.titulo}
@@ -57,7 +61,7 @@ Detenciones por período[1]{.nota}
 ![](img/violaciones_ddhh_chile_7.png)
 :::
 
-Los centros de detención tuvieron un rol vital en la política de represión dictatorial. Estos lugares serían establecidos con el solo propósito de llevar a cabo, en forma sistematizada y en total impunidad, actos de terrorismo de Estado.
+Los **centros de detención y tortura** tuvieron un rol vital en la política de represión dictatorial. Estos lugares serían establecidos con el solo propósito de llevar a cabo, en forma sistematizada y en total impunidad, actos de **terrorismo de Estado**.
 
 Comisarías, regimientos, escuelas, edificios públicos y casas particulares son algunos de los lugares que serían utilizados con estos fines. Algunos de los más conocidos son el Estadio Nacional, Isla Dawson, Villa Grimaldi, Londres 38, la Venda Sexy, entre otros[6]{.nota}
 
@@ -123,6 +127,8 @@ La caravana dejó un saldo de más de 90 personas, 26 muertos tras su paso por e
 :::
 ::::
 
+<br>
+
 ::: {.titulo .subtitulo}
 Operación Albania
 :::
@@ -131,6 +137,29 @@ Operación Albania
 
 Se produjo entre el 15 y 16 de junio de 1987. La CNI hizo uso minucioso de inteligencia obtenida luego del frustrado magnicidio de 1986 y de otras operaciones reprimidas, lo cual –junto a extensos seguimientos de las víctimas– posibilitó a la institución dar con los domicilios, sedes operativas o rutas de desplazamiento de 12 militantes del Frente Patriótico Manuel Rodríguez. Sus **asesinatos** fueron encubiertos por las autoridades como “enfrentamientos”.
 
+<br>
+
+::: {.titulo .subtitulo}
+Manuel Contreras
+:::
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](img/mamo_contreras.jpg){style="width:95%; margin-top:0px;"}
+
+:::
+
+::: {.column style="width: 70%; margin-top:8px; text-justify: right; text-align: right;"}
+
+Director de la DINA entre 1974 y 1977, y luego de la CNI, fue responsable directo de miles de detenciones, torturas, asesinatos y desapariciones forzadas. Condenado a **más de 360 años de prisión** por estos crímenes, murió en la cárcel en 2015.
+
+Fuentes[13]{.nota} indican que participó de al menos 18 **homicidios**, 78 **secuestros** y 20 casos de **apremios ilegítimos**.
+:::
+::::
+
+<br>
 
 ::: {.titulo .subtitulo}
 Ejecutados por año
@@ -168,6 +197,18 @@ Detenidos desaparecidos según su ocupación
 :::
 
 ![](img/violaciones_ddhh_chile_22a.png)
+
+::: {.subtitulo style="margin-top:32px;"}
+Mujeres detenidas desaparecidas
+:::
+
+Se contabilizan más de **60 mujeres** detenidas desaparecidas por la dictadura cívico-militar.
+
+![](img/mujeres_dddd.jpeg)
+
+![](img/embarazadas_dddd_a.jpg)
+
+![](img/embarazadas_dddd_b.jpg)
 
 ::: {.subtitulo style="margin-top:32px;"}
 Detenidos desaparecidos según región del país
@@ -225,3 +266,5 @@ La DINA fue la **policía secreta** de la dictadura, creada específicamente par
 **11**: La misión era matar: el juicio a la caravana Pinochet-Arellano. Jorge Escalante Hidalgo. Lom Editores. 2000.
 
 **12**: Según el informe Valech, el número corresponde a mujeres que confesaron espontáneamente durante interrogaciones que no estaban directamente dirigidas a la violencia sexual. Esto, sumado a la complejidad de confesar el sufrimiento de una violación sexual, sugiere que el número real es mucho mayor.
+
+**13**: Historia procesal de Juan Manuel Contreras Sepúlveda en la Corte Suprema, 2015, Observatorio de Justicia Transicional UDP y Centro de Derechos Humanos UDP.
