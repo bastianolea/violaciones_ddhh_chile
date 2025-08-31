@@ -22,7 +22,11 @@ lang: es
 
 <!-- ![]("img/violaciones_ddhh_chile_4.png") -->
 
-Amplio es el prontuario en materia de derechos humanos que aún pesa sobre la dictadura militar. El uso de violencia durante tal periodo se volvió política de Estado, y la eliminación selectiva de ciudadanos específicos benefició directamente los objetivos político-económicos del régimen de Pinochet. La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y redes más cercanas de las víctimas, y un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con tanta sangre chilena continúa más vivo que nunca.
+Amplio es el prontuario en materia de derechos humanos que aún pesa sobre la dictadura militar. 
+
+El uso de violencia durante tal periodo se volvió política de Estado, y la eliminación selectiva de ciudadanos específicos benefició directamente los objetivos político-económicos del régimen de Pinochet. 
+
+La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y redes más cercanas de las víctimas, y un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con tanta sangre chilena continúa más vivo que nunca.
 
 ## Detenciones
 
@@ -30,12 +34,8 @@ Amplio es el prontuario en materia de derechos humanos que aún pesa sobre la di
 33.221 civiles detenidos[1]{.nota} <br>[por motivos políticos]{.subtitulo}
 :::
 
+Al disolverse los derechos de libre reunión de grupos de personas en las calles, aplicarse un **toque de queda** que duraría 14 años, y llevarse a cabo una constante lucha contra las organizaciones sociales e ideas políticas, el régimen dictatorial hizo amplio uso de detenciones policiales como forma de **represión directa y amedrentamiento**. 
 
-Al disolverse los derechos de libre reunión de grupos de personas en las calles, aplicarse un toque de queda que duraría 14 años, y llevarse a cabo una constante lucha contra determinadas agrupaciones sociales e ideas políticas, el régimen dictatorial hizo amplio uso de detenciones policiales como forma de represión directa y amedrentamiento. 
-
-::: {.column-margin}
-Texto lateral
-:::
 
 ![](img/violaciones_ddhh_chile_5.png)
 

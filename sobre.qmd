@@ -5,8 +5,21 @@ format:
     theme: [dark, custom.scss]
     grid:
       body-width: 600px
-fontcolor: white
-backgroundcolor: black
+fontfamily: Barlow
+lang: es
 ---
 
-Hola
+:::{style="text-align:center; margin:auto;"}
+![](donde_estan.jpg){style="height:400px;"}
+:::
+
+
+Este proyecto busca recopilar y presentar información sobre las violaciones de derechos humanos ocurridas en Chile durante la dictadura militar. El proyecto nació del año 2017, mientras estudiaba en la universidad. Quise producir una visualización en forma de infografía para facilitar el acceso a esta información. En sus inicios también de un proyecto paralelo que difundía imágenes de detenidos desaparecidos por Internet de forma automatizada y al azar.
+
+Publiqué la infografía en internet, y también la imprimí en varios formatos para pegarla en universidades o ex-centros de detención y tortura como el Estadio Nacional. Esta acción de propaganda recibió bastante apoyo por internet, lo que me hizo conocer a personas increíbles, con muchas ganas de aportar para esclarecer la verdad y exigir justicia. A varias de estas personas las conocí en directo, gestionando reuniones que lamentablemente no pudieron llegar a puerto. Otras personas me han contactado por esta infografía, buscando aportar o compartirla en distintos espacios. 
+
+Agradezco de todo corazón de las personas que he conocido a través de estos años y que me han ayudado a difundir y mejorar esta visualización.
+
+Cualquier persona que quiera complementar, mejorar o corregir alguna información, [les invito a contactarme.](https://bastianolea.rbind.io/contact/)
+
+_[Bastián Olea Herrera](https://bastianolea.rbind.io)_

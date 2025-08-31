@@ -27,12 +27,12 @@ website:
       # - text: "Contacto"
       #   href: https://bastianolea.rbind.io/contact/
     right:
-      - icon: globe
+      - icon: person-fill
         href: https://bastianolea.rbind.io
       - icon: twitter
-        href: https://bsky.app/profile/bastianolea.rbind.io
-      - icon: github
-        href: https://github.com/bastianolea?tab=repositories
+        href: https://x.com/bastimapache
+      - icon: envelope-fill
+        href: https://bastianolea.rbind.io/contact/
 
 format:
   html:

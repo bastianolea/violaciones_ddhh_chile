@@ -1,6 +1,12 @@
 ---
-title: "fuentes"
-format: html
+title: "Fuentes de información"
+format: 
+  html:
+    theme: [dark, custom.scss]
+    grid:
+      body-width: 600px
+fontfamily: Barlow
+lang: es
 ---
 
 
