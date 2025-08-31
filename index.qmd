@@ -217,7 +217,7 @@ Detenidas desaparecidas embarazadas[14]{.nota}
 :::: {.columns}
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Michelle Marguerite Peña Herreros.jpg){fig-alt="Michelle Marguerite Peña Herreros"}
+![](img/embarazadas/Michelle Marguerite Pena Herreros.jpg){fig-alt="Michelle Marguerite Peña Herreros"}
 <br><br>
 **Michelle Marguerite Peña Herreros**, 8 meses de embarazo.
 :::
@@ -241,7 +241,7 @@ Detenidas desaparecidas embarazadas[14]{.nota}
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Diana Frida Arón Svigilsky.jpg){.foto-embarazada fig-alt="Diana Frida Arón Svigilsky"}
+![](img/embarazadas/Diana Frida Aron Svigilsky.jpg){.foto-embarazada fig-alt="Diana Frida Arón Svigilsky"}
 <br><br>
 **Diana Frida Arón Svigilsky**, 3 1/2 meses de embarazo.
 ::: 
@@ -253,7 +253,7 @@ Detenidas desaparecidas embarazadas[14]{.nota}
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Mónica del Carmen Pacheco Sánchez.jpg){fig-alt="Mónica del Carmen Pacheco Sánchez"}
+![](img/embarazadas/Monica del Carmen Pacheco Sanchez.jpg){fig-alt="Mónica del Carmen Pacheco Sánchez"}
 <br><br>
 **Mónica del Carmen Pacheco Sánchez**, 3 meses de embarazo.
 ::: 
@@ -265,7 +265,7 @@ Detenidas desaparecidas embarazadas[14]{.nota}
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/María Cecilia Labrín Sazo.jpg){fig-alt="María Cecilia Labrín Sazo"}
+![](img/embarazadas/Maria Cecilia Labrin Sazo.jpg){fig-alt="María Cecilia Labrín Sazo"}
 <br><br>
 **María Cecilia Labrín Sazo**, 2 meses de embarazo.
 ::: 
