@@ -51,7 +51,29 @@ Detenciones por período[1]{.nota}
 
 La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
 
-![](img/fotos_1.jpg){style="margin-top:18px;"}
+
+::::: {.testimonios}
+
+[“]{.comilla}
+
+:::: {.testimonio}
+En José Domingo Cañas fui golpeada en diversas partes del cuerpo. Nuevamente fui manoseada y obligada a presenciar la tortura de mi esposo. Fui desnudada y amarrada a un catre metálico en el que fui golpeada. Estaba embarazada con 6 meses de gestación.
+
+::: {.firma}
+(Mujer, detenida en septiembre de 1974. Relato de su reclusión en José Domingo Cañas N° 1315, región Metropolitana)
+:::
+::::
+  
+:::: {.testimonio}
+Fui encerrado en una barraca donde muchas veces escuchaba y otras veía cómo violaban a algunas niñas universitarias o simplemente liceanas, lo cual me producía mucho trastorno, por la impotencia de no poder hacer nada. Ésto se repitió muchas veces durante el tiempo que estuve detenido.
+
+::: {.firma}
+(Hombre, relato de su reclusión en la Base Naval El Morro, región del Biobío, 1973) 
+:::
+::::
+:::::
+
+![](img/fotos_1.jpg){style="margin-top:-10px;"}
 
 ## Prisioneros políticos
 
@@ -82,6 +104,31 @@ Una enorme cantidad de los detenidos durante la dictadura fueron sometidos siste
 El objetivo de estos actos inhumanos (cometidos en su mayoría por ciudadanos que hoy siguen en libertad) fue principalmente el **extraer información**, pero más allá de este criterio funcional, la consecuencia directa de la tortura era el ejercer **gobierno a través del terror**, tanto sobre las víctimas directas como en el general de la población que poco a poco tomaba conocimiento de lo que podía costarles el oponerse a la dictadura.
 
 ![](img/violaciones_ddhh_chile_10.png)
+
+
+
+::::: {.testimonios}
+
+[“]{.comilla}
+
+:::: {.testimonio}
+Preguntaron mi nombre y fecha de nacimiento, me sentaron en una silla de madera y fierro y me esposaron por la espalda. Una especie de coro infernal repletaba el recinto. Oía gritos en distintos tonos, desde distintas bocas, que se mezclaban con las órdenes de los agentes. Eran gritos de espanto que mordían el aire y que al terminar seguían vibrando en el espacio. No eran gritos de miedo, eran de soledad frente a lo incomprensible.
+
+::: {.firma}
+(Hombre, detenido en Londres 38, región Metropolitana, 1974)
+:::
+::::
+
+:::: {.testimonio}
+Al entrar a la comisaría, casi al anochecer, escuché unos gritos desgarradores que provenían de algún lugar de adentro de la comisaría. El terror más profundo que puede sentir un ser humano me invadió al reconocer que los gritos eran de mi hermano...
+
+::: {.firma}
+(Mujer, detenida en septiembre de 1973. Relato de su reclusión en la 4ª Comisaría de Talca, región del Maule) 
+:::
+
+::::
+:::::
+
 
 ::: {.subtitulo}
 Frecuencia de los diferentes tipos de tortura[9]{.nota}
@@ -298,6 +345,31 @@ Desapariciones forzadas por año
 La gran mayoría de las desapariciones se llevaron a cabo durante los primeros años de la dictadura, la cual actuó con rapidez para erradicar toda forma de oposición u organización política.
 
 ![](img/violaciones_ddhh_chile_23.png)
+
+
+
+::::: {.testimonios}
+
+[“]{.comilla}
+
+:::: {.testimonio}
+Fui violada, me ponían corriente, me quemaron con cigarrillos, me hacían "chupones", me pusieron ratas. Creo que estuve en [recinto secreto de la DINA], me amarraron a una camilla donde unos perros amaestrados me violaron. Estaba siempre con scotch, después una venda y después una capucha. Se reían, nos ofrecían comida y nos daban cáscaras de naranjas. Nos despertaban de noche para perder la noción del tiempo.
+
+::: {.firma}
+(Mujer, 16 años, región Metropolitana, 1975)
+:::
+::::
+
+:::: {.testimonio}
+Me trajeron un dentista según ellos, pero para mí era otro torturador; a sangre fría me hace las preguntas correspondientes y le indico mi dolor, y el criminal me empieza a sacar muelas sin ninguna anestesia, tenía ayudantes que te sujetaban tirándote el pelo y los otros de las manos y pies. Allí perdí tres muelas. El dolor era insoportable, y no tenía derecho a pedir calmante alguno...
+
+::: {.firma}
+(Hombre, 23 años, región del Biobío, 1973)
+:::
+
+::::
+:::::
+
 
 ## Responsables
 

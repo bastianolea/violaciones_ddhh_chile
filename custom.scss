@@ -100,3 +100,42 @@ h2, h3 {
   text-align: center !important;
   hyphens: none !important;
 }
+
+
+
+.testimonios {
+  display: flex !important;
+  overflow-x: auto !important;
+  text-align: left !important;
+  margin-bottom: 8px;
+  opacity: 75%;
+}
+
+.testimonios::-webkit-scrollbar {
+  display: none;
+}
+
+.testimonio {
+  font-size: 76% !important;
+  font-family: Courier New, monospace;
+  min-width: 65%;
+  flex-direction: row;
+  margin: 12px;
+  overflow-x: auto;
+}
+
+.firma {
+  display: block;
+  max-width: 300px;
+  text-align: left !important;
+  font-size: 80% !important;
+  margin-top: -8px;
+}
+
+.comilla {
+  opacity: 70%;
+  font-family: Garamond, serif; 
+  font-size: 80px; 
+  line-height: 1;
+  margin-left: 12px;
+}
