@@ -30,6 +30,9 @@ La consecuencia directa de esto ha sido un sufrimiento permanente para las famil
 
 Esta infografía busca resumir las atrocidades cometidas por la dictadura, basándose en informes oficiales y de organizaciones de derechos humanos.
 
+![](img/fotos_1.jpg){style="margin-top:16px;"}
+
+
 ## Detenciones
 
 ::: {.titulo}
@@ -40,16 +43,6 @@ Al disolverse los derechos de libre reunión de grupos de personas en las calles
 
 
 ![](img/violaciones_ddhh_chile_5.png)
-
-A través de las detenciones se nutrían las organizaciones de inteligencia y se reprimía la oposición, generando así condiciones para la consolidación política del régimen.
-
-::: {.subtitulo style="margin-top:30px;margin-bottom: -20px;"}
-Detenciones por período[1]{.nota}
-:::
-
-![](img/violaciones_ddhh_chile_6.png)
-
-La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
 
 
 ::::: {.testimonios}
@@ -83,7 +76,36 @@ Al entrar a la comisaría, casi al anochecer, escuché unos gritos desgarradores
 ::::
 :::::
 
-![](img/fotos_1.jpg){style="margin-top:-10px;"}
+A través de las detenciones se nutrían las organizaciones de inteligencia y se reprimía la oposición, generando así condiciones para la consolidación política del régimen.
+
+::: {.subtitulo style="margin-top:30px;margin-bottom: -20px;"}
+Detenciones por período[1]{.nota}
+:::
+
+![](img/violaciones_ddhh_chile_6.png)
+
+La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
+
+<br>
+
+::::: {.caja}
+<span>
+[Inmolado por sus hijos]{.caja-titulo}
+</span>
+
+![](img/sebastian_acevedo/lienzo_sebastian_acevedo.jpeg)
+
+:::: {.caja-texto}
+El 9 de noviembre de 1983, cerca de 30 agentes armados de la CNI entraron al hogar de Sebastián Acevedo, llevándose **detenidos** a dos de sus hijos, María Candelaria y Galo. Sebastián recorrió comisarías, iglesias, oficinas de gobierno, el arzobispado y salas de prensa, exigiendo que le devolvieran a sus hijos. Su desesperación radicaba en **la posibilidad real de que sus hijos no volvieran vivos.** Sin respuesta por parte de las autoridades, Acevedo entró en desesperación. 
+
+![](img/sebastian_acevedo/sebastian_acevedo.jpg){style="max-width:40%; max-height:220px; float:right; margin:8px;"}
+
+Habiendo buscado incansablemente a sus hijos, el 11 de noviembre se ubicó fuera de la Catedral de Concepción, y mientras exigía la liberación de sus hijos, **se roció con bencina y se prendió fuego.** Fue trasladado al hospital con el 95% de su cuerpo quemado, y debido a la presión de un acto tan desgarrador, su hija María Candelaria fue liberada. Entabló una última conversación con ella por medio de un citófono, para que su hija no viera su agónico estado. 
+
+Falleció horas mas tarde, y su inmolación se tornó inspiración para la creación del _Movimiento contra la Tortura Sebastián Acevedo_.
+::::
+:::::
+
 
 ## Prisioneros políticos
 
@@ -190,37 +212,31 @@ Numerosas operaciones llevadas a cabo durante la dictadura involucraron la ejecu
 ![](img/violaciones_ddhh_chile_13b.png)
 :::
 
-Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestantes eran blancos recurrentes. El resultado de esta brutal tendencia al abuso del poder militar es un amplio prontuario de ejecutados políticos que califican como violaciones a los derechos humanos.
+Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestantes eran blancos recurrentes del régimen. La indignante cantidad de ejecutados políticos es testimonio del abuso del poder estatal y militar en su máxima expresión.
 
+:::{.centrar}
+[Ejecutados]{.subtitulo}
+:::
+
+:::{style="margin-top: -12px; margin-bottom: -16px;"}
+Representación visual de las vidas arrebatadas por la dictadura, donde cada cruz representa a 10 personas asesinadas o ejecutadas por el Estado.
+:::
 
 ![](img/violaciones_ddhh_chile_13a.png)
-
 
 
 ::: {.titulo .subtitulo}
 La Caravana de la Muerte
 :::
 
-:::: {.columns}
-
-::: {.column width="55%" style="margin-top:8px; text-justify: left; text-align: left;"}
+![](img/violaciones_ddhh_chile_14.png){style="float:left; max-width:45%; margin-top:-5px;"}
 
 Comitiva dirigida por el general Sergio Arellano Stark bajo mandato directo de Pinochet, que recorrió el país en helicóptero con el objetivo de “acelerar procesos” en las provincias; es decir, enseñar al resto de los uniformados el “trato” que merecían los “extremistas”.
 
-La caravana dejó un saldo de más de 90 personas, 26 muertos tras su paso por el sur de Chile y 71 muertos en el norte del país. Sus hechos no se dieron a conocer sino hasta que terminó el régimen.
-
-:::
-
-::: {.column width="45%"}
-
-![](img/violaciones_ddhh_chile_14.png)
-
-:::
-::::
-
-<br>
+La caravana dejó un macabro saldo de **más de 90 personas asesinadas:** 26 ejecutados tras su paso por el sur de Chile en tan sólo 7 días (30 de septiembre al 6 de octubre), y 71 ejecutados  durante los 6 días que pasó la caravana por el norte del país (16 al 22 de octubre). Muchas de las víctimas fueron enterradas en fosas comunes. Sus hechos no se dieron a conocer sino hasta que terminó el régimen.
 
 ::: {.titulo .subtitulo}
+<br>
 Operación Albania
 :::
 
@@ -228,9 +244,8 @@ Operación Albania
 
 Se produjo entre el 15 y 16 de junio de 1987. La CNI hizo uso minucioso de inteligencia obtenida luego del frustrado magnicidio de 1986 y de otras operaciones reprimidas, lo cual –junto a extensos seguimientos de las víctimas– posibilitó a la institución dar con los domicilios, sedes operativas o rutas de desplazamiento de 12 militantes del Frente Patriótico Manuel Rodríguez. Sus **asesinatos** fueron encubiertos por las autoridades como “enfrentamientos”.
 
-<br>
-
 ::: {.titulo .subtitulo}
+<br>
 Manuel Contreras
 :::
 
@@ -258,6 +273,40 @@ Ejecutados por año
 
 ![](img/violaciones_ddhh_chile_16.png)
 
+
+::::: {.caja}
+<span>
+[Caso quemados]{.caja-titulo}
+</span>
+
+:::: {.columns}
+
+::: {.column width="48%"}
+![](img/caso_quemados/carmen_gloria_quintana2.jpg){fig-alt="Carmen Gloria Quintana"}
+<br><br>
+[**Carmen Gloria Quintana** (1968—hoy)]{.no-quebrar}
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+![](img/caso_quemados/rodrigo_rojas_de_negri2.jpg){fig-alt="Rodrigo Rojas De Negri"}
+<br><br>
+[**Rodrigo Rojas De Negri** (1967—1986)]{.no-quebrar}
+:::
+::::
+
+:::: {.caja-texto}
+Un 2 de julio de 1986 se gestaba un **paro nacional** contra la dictadura de Augusto Pinochet, que llegó a ser la mayor movilización social contra el régimen. Rodrigo Rojas De Negri, 19 años, que cubría noticias del paro con su cámara fotográfica, y Carmen Gloria Quintana, estudiante universitaria de 18 años, se encontraban participando de las manifestaciones junto a otras personas. 
+
+De repente, fueron interceptados por una patrulla militar. Al huir, Rodrigo y Carmen Gloria fueron detenidos en el lugar y golpeados brutalmente. **Los militares rociaron a los dos jóvenes con gasolina, y uno de ellos prendió fuego a sus cuerpos con un encendedor.** Estando inconscientes, fueron envueltos en frazadas y subidos a un camión. Los militares los botaron en una acequia para que murieran, en un terreno baldío y aislado. Despertaron calcinados, y tuvieron que caminar en busca de ayuda. La dictadura comunicó que se trató de un _accidente._
+
+Rodrigo falleció horas después a causa de sus quemaduras, mientras que Carmen Gloria estuvo en coma y debió sufrir múltiples injertos de piel y más de 40 operaciones, sobreviviendo para dar testimonio de la brutal represión dictatorial.
+::::
+:::::
+
+
 ## Exiliados
 
 ::: {.titulo}
@@ -265,10 +314,11 @@ Más de 200.000 exiliados[3]{.nota}<br>[repartidos entre casi 50 países]{.subti
 :::
 
 Miles de chilenas y chilenos decidieron salir del país para proteger su vida o la de sus seres queridos. Otros pudieron conmutar sus condenas por el exilio, con la condición de no poder regresar al país. 
-
 ![](img/violaciones_ddhh_chile_19.png)
 
 Pero también la dictadura usó el exilio como mecanismo para **remover opositores y enemigos políticos**: en 1973 se instaura el _decreto 81_, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (…) que a juicio del Gobierno constituyan un **peligro** para el Estado”.
+
+
 
 ## Desaparecidos
 
@@ -276,12 +326,13 @@ Pero también la dictadura usó el exilio como mecanismo para **remover opositor
 1.193 detenidos desaparecidos[2]{.nota}
 :::
 
-![](img/violaciones_ddhh_chile_20.png)
+![](img/violaciones_ddhh_chile_20a.png)
+
 Padres y madres, hijos e hijas, hermanos y hermanas, compañeros y compañeras, fueron secuestrados desde sus casas (28,6%), lugar de trabajo (11,3%) o de la vía pública (24,3%) por agentes de la dictadura, para nunca más volver a ser vistos por sus seres queridos. 
 
 ![](img/violaciones_ddhh_chile_21.png)
 
-Esta práctica de eliminación selectiva también se constituyó en un método recurrentemente usado por organismos represores para llevar a cabo asesinatos y ejecuciones, y posteriormente ocultar toda evidencia, encubriendo los hechos a través de la desaparición del cadáver y la manipulación de informes y pericias, **asegurando la impunidad** de los crímenes.
+Esta práctica de **eliminación selectiva** también se constituyó en un método recurrentemente usado por organismos represores para llevar a cabo asesinatos y ejecuciones, y posteriormente ocultar toda evidencia, encubriendo los hechos a través de la desaparición del cadáver y la manipulación de informes y pericias, **asegurando la impunidad** de los crímenes.
 
 ::: {.subtitulo style="margin-top:32px;"}
 Detenidos desaparecidos según su ocupación

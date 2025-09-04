@@ -116,7 +116,7 @@ h2, h3 {
 }
 
 .testimonio {
-  font-size: 76% !important;
+  font-size: 74% !important;
   font-family: Courier New, monospace;
   min-width: 65%;
   flex-direction: row;
@@ -138,4 +138,47 @@ h2, h3 {
   font-size: 80px; 
   line-height: 1;
   margin-left: 12px;
+}
+
+
+
+.caja {
+  max-height: 500px; 
+  overflow-y:scroll;
+  margin: 18px;
+  padding: 18px;
+  padding-bottom: 0px;
+  border: solid 2px #E7E7E7;
+  text-justify: none !important;
+  word-break: none !important;
+  text-align: center !important;
+}
+
+.caja-texto {
+  font-family: Courier New, monospace;
+  font-size: 85%; 
+  text-align: left;
+}
+
+.caja-titulo {
+  font-family: 'Barlow Semi Condensed', sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 16pt !important;
+  text-align: center !important;
+  color: black;
+  background-color: #E7E7E7;
+  text-transform: uppercase !important;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+
+.no-quebrar {
+  word-break: none !important;
+  hyphens: none !important;
+}
+
+.centrar {
+  text-align: center !important;
+  margin: auto !important;
 }
