@@ -88,4 +88,4 @@ ggplot() +
         panel.grid = element_blank()) +
   canvas(6, 6)
 
-ggsave("img/mapas/ejecuciones/mapa_ejecuciones_b.png", width = 6, height = 6)
+ggsave("img/mapas/ejecuciones/mapa_ejecuciones_b.jpeg", width = 6, height = 6)

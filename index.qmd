@@ -218,9 +218,9 @@ Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestan
 [Región Metropolitana]{.subtitulo}
 :::
 
-El siguiente mapa muestra los lugares donde fueron ejecutadas personas solamente en el año 1973, en la Región Metropolitana. En este lapso de un poco más de **3 meses y medio fueron asesinadas más de 900 personas.**
+Este mapa muestra los lugares donde fueron **ejecutadas** personas el año 1973, en la Región Metropolitana. En este lapso de un poco más de **3 meses y medio fueron asesinadas más de 900 personas.**
 
-[![](img/mapas/ejecuciones/mapa_ejecuciones_b.png)](https://mapa.archivoschile.com)
+[![](img/mapas/ejecuciones/mapa_ejecuciones_b.jpg)](https://mapa.archivoschile.com)
 
 ::: {style="opacity: 0.6; font-size: 80%; margin-top:-18px; margin-left:20px; margin-right:20px; margin-bottom: 24px;"}
 Los datos de este mapa fueron recopilados por ArchivosChile desde el Servicio Médido Legal para el reportaje [Burocracia de la Muerte](https://archivoschile.com/investigaciones/burocracia-de-la-muerte/), y están disponibles como [mapa interactivo.](https://mapa.archivoschile.com)
@@ -477,6 +477,28 @@ Me trajeron un dentista según ellos, pero para mí era otro torturador; a sangr
 :::::
 
 
+## Infancias
+
+::: {.titulo style="margin-bottom:20px;"}
+Niñas y niños víctimas de violencia de Estado[15]{.nota}
+:::
+
+La violencia dictatorial no tuvo compasión por ninguna de sus víctimas. Esto queda en evidencia irrefutable en el alto número de **niñas, niños y adolescentes** que fueron detenidos, torturados, asesinados o desaparecidos por el régimen.
+
+El régimen de Pinochet detuvo a **1.132 menores de 18 años**, de los cuales 88 tenían menos de 13 años[1]{.nota}.
+
+::: {style="margin-left:40px; margin-right:40px;"}
+[956]{.cifra} niños, niñas y adolescentes sufrieron **prisión política y torturas.**
+
+[102]{.cifra} estuvieron en **prisión política** acompañados de un adulto o adulta. 
+
+[150]{.cifra} niños, niñas y adolescentes fueron identificados como **víctimas de ejecución.**
+
+[40]{.cifra} fueron víctimas de **desaparición forzada.**
+
+[700]{.cifra} niños, niñas y adolescentes quedaron **huérfanos** debido a la ejecución o desaparición forzosa de sus padres.
+:::
+
 ## Responsables
 
 ::: {.titulo style="margin-bottom:20px;"}
@@ -518,6 +540,8 @@ La DINA fue la **policía secreta** de la dictadura, creada específicamente par
 **13**: _Historia procesal de Juan Manuel Contreras Sepúlveda en la Corte Suprema_, 2015, Observatorio de Justicia Transicional UDP y Centro de Derechos Humanos UDP.
 
 **14:** [_¿Qué pasó con sus hijos?: las diez detenidas embarazadas que la dictadura hizo desaparecer._](https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-150) Museo de la Memoria y los Derechos Humanos
+
+**15:** Defensoría de la Niñez: [En memora de niños, niñas y adolescentes víctimas de la violencia de estado durante la dictadura](https://observatorio.defensorianinez.cl/ninezendictadura/)
 
 <br>
 
