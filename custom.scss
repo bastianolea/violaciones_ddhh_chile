@@ -82,8 +82,7 @@ h2, h3 {
   /*opacity: 0;*/
 }
 
-
-
+/* estilo del índice (toc) */
 .sidebar nav[role="doc-toc"] ul > li > a.active {
   opacity: 1 !important;
     color: black !important;
@@ -100,8 +99,6 @@ h2, h3 {
   text-align: center !important;
   hyphens: none !important;
 }
-
-
 
 .testimonios {
   display: flex !important;
@@ -188,5 +185,34 @@ h2, h3 {
   font-weight: 700 !important;
   font-size: 26pt !important;
   color: #E7E7E7 !important;
+  text-transform: uppercase !important;
+}
+
+.fecha {
+  font-family: 'Barlow Semi Condensed', sans-serif !important;
+  font-size: 95%;
+  color: black;
+  background-color: #E7E7E7;
+  text-transform: uppercase !important;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-right: 0px;
+}
+
+.sangria-francesa {
+    padding-left: 60px !important;
+    text-indent: -60px !important;
+}
+  
+.caja-invisible {
+  max-height: 600px; 
+  overflow-y: scroll;
+}
+
+.subtitulo-left {
+  font-family: 'Barlow Semi Condensed', sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 18pt !important;
+  color: white;
   text-transform: uppercase !important;
 }
