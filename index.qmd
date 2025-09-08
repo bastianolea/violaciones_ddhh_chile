@@ -214,6 +214,19 @@ Numerosas operaciones llevadas a cabo durante la dictadura involucraron la ejecu
 
 Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestantes eran blancos recurrentes del régimen. La indignante cantidad de ejecutados políticos es testimonio del abuso del poder estatal y militar en su máxima expresión.
 
+:::{.centrar"}
+[Región Metropolitana]{.subtitulo}
+:::
+
+El siguiente mapa muestra los lugares donde fueron ejecutadas personas solamente en el año 1973, en la Región Metropolitana. En este lapso de un poco más de **3 meses y medio fueron asesinadas más de 900 personas.**
+
+[![](img/mapas/ejecuciones/mapa_ejecuciones_b.png)](https://mapa.archivoschile.com)
+
+::: {style="opacity: 0.6; font-size: 80%; margin-top:-18px; margin-left:20px; margin-right:20px; margin-bottom: 24px;"}
+Los datos de este mapa fueron recopilados por ArchivosChile desde el Servicio Médido Legal para el reportaje [Burocracia de la Muerte](https://archivoschile.com/investigaciones/burocracia-de-la-muerte/), y están disponibles como [mapa interactivo.](https://mapa.archivoschile.com)
+:::
+
+
 :::{.centrar}
 [Ejecutados]{.subtitulo}
 :::
