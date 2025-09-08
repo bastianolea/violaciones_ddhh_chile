@@ -244,7 +244,7 @@ La Caravana de la Muerte
 
 ![](img/violaciones_ddhh_chile_14.png){style="float:left; max-width:45%; margin-top:-5px;"}
 
-Comitiva dirigida por el general Sergio Arellano Stark bajo mandato directo de Pinochet, que recorrió el país en helicóptero con el objetivo de “acelerar procesos” en las provincias; es decir, enseñar al resto de los uniformados el “trato” que merecían los “extremistas”.
+Comitiva dirigida por el general Sergio Arellano Stark bajo mandato directo de Pinochet, que en 1973 recorrió el país en helicóptero con el objetivo de “acelerar procesos” en las provincias; es decir, enseñar al resto de los uniformados el “trato” que merecían los “extremistas”.
 
 La caravana dejó un macabro saldo de **más de 90 personas asesinadas:** 26 ejecutados tras su paso por el sur de Chile en tan sólo 7 días (30 de septiembre al 6 de octubre), y 71 ejecutados  durante los 6 días que pasó la caravana por el norte del país (16 al 22 de octubre). Muchas de las víctimas fueron enterradas en fosas comunes. Sus hechos no se dieron a conocer sino hasta que terminó el régimen.
 
@@ -535,6 +535,8 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 [11 de septiembre de 1973:]{.fecha} se decreta **toque de queda** en todo el territorio nacional. El toque de queda duró 14 años.
 
 [24 de septiembre de 1973:]{.fecha} se **disuelve el Congreso Nacional** y se termina el ejercicio de todos los parlamentarios.
+
+[30 de septiembre:]{.fecha} la **caravana de la muerte** inicia su recorrido en helicóptero, realizando una masacre sistemática de opositores políticos, o formando a otros militares para su realización.
 
 [13 de octubre de 1973:]{.fecha} se **prohíben los partidos políticos de izquierda**, considerados “asociaciones ilícitas”.
 

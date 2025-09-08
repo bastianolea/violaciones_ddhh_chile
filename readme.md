@@ -10,6 +10,8 @@ Infografía que recopila visualizaciones de datos acerca de los crímenes de les
 
 ### Actualizaciones
 
+- 08/09/2025: línea de tiempo
+- 07/09/2025: apartado sobre infancias
 - 03/09/2025: apartados con relatos sobre casos insignes de víctimas: caso Sebastián Acevedo y caso quemados
 - 01/09/2025: secciones dispersas de testimonios de sobrevivientes
 - 31/08/2025: nueva sección de mujeres detenidas desaparecidas embarazadas
