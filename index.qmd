@@ -10,6 +10,7 @@ format:
       body-width: 500px
 fontfamily: Barlow
 lang: es
+lightbox: true
 ---
 
 
@@ -36,7 +37,11 @@ Esta infografía busca resumir las atrocidades cometidas por la dictadura, basá
 ## Detenciones
 
 ::: {.titulo}
-33.221 civiles detenidos[1]{.nota} <br>[por motivos políticos]{.subtitulo}
+33.221 civiles detenidos[1]{.nota}
+:::
+
+::: {.bajada}
+por motivos políticos
 :::
 
 Al disolverse los derechos de libre reunión de grupos de personas en las calles, aplicarse un **toque de queda** que duraría 14 años, y llevarse a cabo una constante lucha contra las organizaciones sociales e ideas políticas, el régimen dictatorial hizo amplio uso de detenciones policiales como forma de **represión directa y amedrentamiento**. 
@@ -129,6 +134,10 @@ Comisarías, regimientos, escuelas, edificios públicos y casas particulares son
 24.529 víctimas de torturas[1]{.nota}
 :::
 
+::: {.bajada}
+sufrimiento inhumano como<br>política de Estado
+:::
+
 Una enorme cantidad de los detenidos durante la dictadura fueron sometidos sistemáticamente a terribles **vejámenes, tormentos y humillaciones** por sus captores.
 
 ![](img/violaciones_ddhh_chile_9.png)
@@ -203,7 +212,11 @@ Después de los interrogatorios los compañeros llegaban completamente destruido
 ## Asesinatos
 
 ::: {.titulo}
-2.279 personas asesinadas o ejecutadas[2]{.nota}<br>[por el Estado y las fuerzas de la Dictadura]{.subtitulo}
+2.279 personas asesinadas o ejecutadas[2]{.nota}
+:::
+
+::: {.bajada}
+por el Estado y las fuerzas represivas de la Dictadura
 :::
 
 Numerosas operaciones llevadas a cabo durante la dictadura involucraron la ejecución a sangre fría de civiles. En los centros de detención, se llamó entre las multitudes a determinados individuos para su ejecución pública. En allanamientos de viviendas o redadas en poblaciones, el uso de fuerza letal también era común.
@@ -295,7 +308,7 @@ Ejecutados por año
 :::: {.columns}
 
 ::: {.column width="48%"}
-![](img/caso_quemados/carmen_gloria_quintana2.jpg){fig-alt="Carmen Gloria Quintana"}
+![](img/caso_quemados/carmen_gloria_quintana2.jpg){fig-alt="Carmen Gloria Quintana" .lightbox}
 <br><br>
 [**Carmen Gloria Quintana** (1968—hoy)]{.no-quebrar}
 :::
@@ -304,7 +317,7 @@ Ejecutados por año
 :::
 
 ::: {.column width="48%"}
-![](img/caso_quemados/rodrigo_rojas_de_negri2.jpg){fig-alt="Rodrigo Rojas De Negri"}
+![](img/caso_quemados/rodrigo_rojas_de_negri2.jpg){fig-alt="Rodrigo Rojas De Negri" .lightbox}
 <br><br>
 [**Rodrigo Rojas De Negri** (1967—1986)]{.no-quebrar}
 :::
@@ -323,10 +336,15 @@ Rodrigo falleció horas después a causa de sus quemaduras, mientras que Carmen 
 ## Exiliados
 
 ::: {.titulo}
-Más de 200.000 exiliados[3]{.nota}<br>[repartidos entre casi 50 países]{.subtitulo}
+Más de 200.000 exiliados[3]{.nota}
+:::
+
+::: {.bajada}
+repartidos entre casi 50 países
 :::
 
 Miles de chilenas y chilenos decidieron salir del país para proteger su vida o la de sus seres queridos. Otros pudieron conmutar sus condenas por el exilio, con la condición de no poder regresar al país. 
+
 ![](img/violaciones_ddhh_chile_19.png)
 
 Pero también la dictadura usó el exilio como mecanismo para **remover opositores y enemigos políticos**: en 1973 se instaura el _decreto 81_, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (…) que a juicio del Gobierno constituyan un **peligro** para el Estado”.
@@ -337,6 +355,10 @@ Pero también la dictadura usó el exilio como mecanismo para **remover opositor
 
 ::: {.titulo}
 1.193 detenidos desaparecidos[2]{.nota}
+:::
+
+::: {.bajada}
+estrategia sistemática de eliminación de adversarios políticos
 :::
 
 ![](img/violaciones_ddhh_chile_20a.png)
@@ -370,61 +392,61 @@ Detenidas desaparecidas embarazadas[14]{.nota}
 :::: {.columns}
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Michelle Marguerite Pena Herreros.jpg){fig-alt="Michelle Marguerite Peña Herreros"}
+![](img/embarazadas/Michelle Marguerite Pena Herreros.jpg){fig-alt="Michelle Marguerite Peña Herreros" .lightbox}
 <br><br>
 **Michelle Marguerite Peña Herreros**, 8 meses de embarazo.
 :::
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Reinalda del Carmen Pereira Plaza.png){fig-alt="Reinalda del Carmen Pereira Plaza"}
+![](img/embarazadas/Reinalda del Carmen Pereira Plaza.png){fig-alt="Reinalda del Carmen Pereira Plaza" .lightbox}
 <br><br>
 **Reinalda del Carmen Pereira Plaza**, 6 meses de embarazo.
 :::
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Cecila Miguelina Bojanic Abad.jpg){fig-alt="Cecila Miguelina Bojanic Abad"}
+![](img/embarazadas/Cecila Miguelina Bojanic Abad.jpg){fig-alt="Cecila Miguelina Bojanic Abad" .lightbox}
 <br><br>
 **Cecila Bojanic Abad**, 4 1/2 meses de embarazo.
 :::
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Elizabeth Mercedes Rekas Urra.jpg){fig-alt="Elizabeth Mercedes Rekas Urra"}
+![](img/embarazadas/Elizabeth Mercedes Rekas Urra.jpg){fig-alt="Elizabeth Mercedes Rekas Urra" .lightbox}
 <br><br>
 **Elizabeth Mercedes Rekas Urra**, 4 meses de embarazo.
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Diana Frida Aron Svigilsky.jpg){.foto-embarazada fig-alt="Diana Frida Arón Svigilsky"}
+![](img/embarazadas/Diana Frida Aron Svigilsky.jpg){.foto-embarazada fig-alt="Diana Frida Arón Svigilsky" .lightbox}
 <br><br>
 **Diana Frida Arón Svigilsky**, 3 1/2 meses de embarazo.
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Jacqueline Paulette Drouilly Yurich.jpg){fig-alt="Jacqueline Paulette Drouilly Yurich"}
+![](img/embarazadas/Jacqueline Paulette Drouilly Yurich.jpg){fig-alt="Jacqueline Paulette Drouilly Yurich" .lightbox}
 <br><br>
 **Jacqueline Paulette Drouilly Yurich**, 3 meses de embarazo.
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Monica del Carmen Pacheco Sanchez.jpg){fig-alt="Mónica del Carmen Pacheco Sánchez"}
+![](img/embarazadas/Monica del Carmen Pacheco Sanchez.jpg){fig-alt="Mónica del Carmen Pacheco Sánchez" .lightbox}
 <br><br>
 **Mónica del Carmen Pacheco Sánchez**, 3 meses de embarazo.
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Nalvia Rosa Mena Alvarado.jpg){fig-alt="Nalvia Rosa Mena Alvarado"}
+![](img/embarazadas/Nalvia Rosa Mena Alvarado.jpg){fig-alt="Nalvia Rosa Mena Alvarado" .lightbox}
 <br><br>
 **Nalvia Rosa Mena Alvarado**, 3 meses de embarazo.
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Maria Cecilia Labrin Sazo.jpg){fig-alt="María Cecilia Labrín Sazo"}
+![](img/embarazadas/Maria Cecilia Labrin Sazo.jpg){fig-alt="María Cecilia Labrín Sazo" .lightbox}
 <br><br>
 **María Cecilia Labrín Sazo**, 2 meses de embarazo.
 ::: 
 
 ::: {.column .embarazadas width="33%"}
-![](img/embarazadas/Gloria Esther Lagos Nilsson.jpg){fig-alt="Gloria Esther Lagos Nilsson"}
+![](img/embarazadas/Gloria Esther Lagos Nilsson.jpg){fig-alt="Gloria Esther Lagos Nilsson" .lightbox}
 <br><br>
 **Gloria Esther Lagos Nilsson**, 2 meses de embarazo.
 ::: 
@@ -483,6 +505,10 @@ Me trajeron un dentista según ellos, pero para mí era otro torturador; a sangr
 Niñas y niños víctimas de violencia de Estado[15]{.nota}
 :::
 
+::: {.bajada}
+víctimas inocentes de una represión sin límites
+:::
+
 La violencia dictatorial no tuvo compasión por ninguna de sus víctimas. Esto queda en evidencia irrefutable en el alto número de **niñas, niños y adolescentes** que fueron detenidos, torturados, asesinados o desaparecidos por el régimen.
 
 El régimen de Pinochet detuvo a **1.132 menores de 18 años**, de los cuales 88 tenían menos de 13 años[1]{.nota}.
@@ -498,6 +524,39 @@ El régimen de Pinochet detuvo a **1.132 menores de 18 años**, de los cuales 88
 
 [700]{.cifra} niños, niñas y adolescentes quedaron **huérfanos** debido a la ejecución o desaparición forzosa de sus padres.
 :::
+
+
+![](img/infancias.jpeg){style="margin-top:16px;"}
+
+
+## Segregación
+
+::: {.titulo}
+Erradicación de pobladores
+:::
+
+::: {.bajada}
+como política dictatorial de segregación socioeconómica
+:::
+
+El régimen militar llevó a cabo un programa de **erradicaciones de campamentos** entre 1979 y 1985, que afectó a cerca de 
+
+::: {style="text-align: center !important; margin-top:-10px; margin-bottom:-10px;"}
+[330.000 personas]{.cifra} 
+:::
+
+Se relocalizó a la fuerza a **pobladores de bajos recursos** en sectores marginales de la capital, o bien, en sectores que concentraban viviendas de bajos recursos, como estrategia de **segregación socioeconómica** de la ciudad.
+
+:::{.centrar}
+![](img/pobladores/erradicacion.jpg){style="margin:auto; max-width:60%; margin-top:16px; margin-bottom:0px;"}
+:::
+
+::: {.column-margin}
+En [esta gráfica](https://www.memoriachilena.gob.cl/602/w3-article-618466.html), los círculos negros representan pobladores que fueron erradicados de sus viviendas, campamentos o tomas, y fueron reubicados forzosamente en las zonas marginales o de bajos recursos representadas por los círculos negros.
+:::
+
+Con la Constitución de 1980, **la vivienda dejó de ser un derecho.**
+
 
 ## Responsables
 
