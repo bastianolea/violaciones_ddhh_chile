@@ -232,3 +232,61 @@ h2, h3 {
   word-break: none !important;
   hyphens: none !important;
 }
+
+.diarios {
+  height: 70px;
+  display: inline;
+  margin: -4px;
+}
+
+.pie-foto {
+  font-size: 70%; 
+  text-align: center !important;
+  margin-top: -8px;
+}
+
+.blanco {
+  font-family: 'Barlow Semi Condensed', sans-serif !important;
+  font-weight: bold;
+  color: black;
+  background-color: #E7E7E7;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-right: 0px;
+}
+
+
+
+
+/*ul {
+	position: relative;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1.5em;
+}
+*/
+
+.ojitos {
+  padding-left: 2em;
+}
+
+.ojito {
+  position: relative;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.ojito:before {
+	content: url(img/censura/ojo.svg); 
+	position: absolute;
+	left: -1.5em;
+	margin-top: 2px;
+}
+
+/*
+li {
+  font-size: 100% !important;
+	margin-bottom: 16px;
+}
+*/

@@ -558,6 +558,105 @@ En [esta gráfica](https://www.memoriachilena.gob.cl/602/w3-article-618466.html)
 Con la Constitución de 1980, **la vivienda dejó de ser un derecho.**
 
 
+## Censura
+
+::: {.titulo}
+El poder para controlar la verdad
+:::
+
+Desde sus primeros minutos, la Dictadura identificó la relevancia de mantener el **control total sobre las ideas**, la comunicación, y la **verdad**. Para ello, llevó a cabo una serie de medidas que le permitía **censurar** prácticamente toda la información que circulaba en el país.
+
+
+::: {.subtitulo style="margin-top:28px;"}
+Medidas de censura y control de medios
+:::
+
+::: {.ojitos}
+
+[El [primer comunicado](https://www.memoriachilena.gob.cl/602/w3-article-92134.html) de la Junta militar amenaza a toda la prensa, radios y canales de televisión afines a la Unidad Popular a que **suspendan sus actividades informativas**, de lo contrario recibirán “castigo aéreo y terrestre”.]{.ojito}
+
+[El bando Nº107 del 11 marzo de 1977 otorga a la Junta la facultad de **autorizar o impedir nuevos medios de comunicación** y **censurar cualquier contenido** contrario a los principios del régimen.[22]{.nota}]{.ojito}
+
+[El [decreto ley N°1.009](https://www.bcn.cl/leychile/navegar?idNorma=6442&idParte=9036014), en 1975, permite **suspender la publicación o transmisión** de cualquier medio de comunicación hasta por diez días, ante alguna infracción.[19]{.nota}]{.ojito}
+
+[El [decreto ley N° 1.281](https://www.bcn.cl/leychile/navegar?i=6549), de diciembre de 1975, establece la **suspensión** de medios de comunicación hasta por seis ediciones por _desfigurar_ hechos o producir alarma.]{.ojito}
+
+[La Constitución de 1980, en su disposición 24, faculta al Presidente a **restringir la libertad de información**, en cuanto a la fundación, edición y circulación de nuevas publicaciones.[21]{.nota}]{.ojito}
+
+:::
+
+::: {.subtitulo style="margin-top:28px;"}
+Clausura de prensa
+:::
+
+Los primeros diarios censurados fueron _Las Últimas Noticias_ y _Tribuna_.[23]{.nota} Publicaciones como _El Siglo, Clarín, Puro Chile, Las Noticias de Última Hora, Punto Final_ y _El Rebelde_ fueron **allanadas** y sacadas de circulación.[19]{.nota}
+
+Los medios que fueron autorizados para circular funcionaron bajo **censura previa, intervención y manipulación** de sus contenidos.[22]{.nota}
+
+![](img/censura/diario.jpg){.diarios}
+![](img/censura/diario.jpg){.diarios}
+![](img/censura/diario.jpg){.diarios}
+![](img/censura/diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+![](img/censura/not-diario.jpg){.diarios}
+
+Para 1974, de los **11** diarios existentes en Santiago sólo quedaban **4**.[19]{.nota}. Las revistas de izquierda desaparecieron. Los medios de comunicación intervenidos vieron confiscados sus bienes, y muchos de sus trabajadores fueron detenidos o exiliados.
+
+::: {.subtitulo style="margin-top:28px;"}
+Quema de libros
+:::
+
+::: {style="float: right; max-width: 40%; margin-left: 16px; margin-top:8px;"}
+![](img/censura/soldados-quemando-libros.jpg)
+:::
+
+Militares **allanaban viviendas** para extraer todo tipo de literatura considerada subversiva por el régimen. Algunas personas se deshicieron sus propios libros por miedo a represalias, ya que durante los allanamientos todo indicio de ideales o valores contrarios al régimen de ultraderecha conservadora eran razón para sancionar a los ciudadanos.
+
+
+::: {.centrar style="max-width: 300px;"}
+![](img/censura/libros-quemados.jpg)
+:::
+
+El objetivo de las operaciones de prohibición y censura de libros y otros medios era **controlar las ideas** que, según la Junta militar, eran “contrarias a la idiosincrasia y al ser nacional”.[21]{.nota}
+
+Coincidentemente, en 1976 la dictadura decide aplicar el [IVA al libro.]{.blanco}
+
+
+::: {.subtitulo style="margin-top:24px;"}
+Operación silencio[20]{.nota}
+:::
+
+::: {style="max-width: 300px; float: left;margin-bottom:-20px;"}
+![](img/censura/bombardeo.jpg)
+:::
+
+::: {style="text-justify: none; word-break: none; text-align: right;"}
+Se denominó _operación silencio_ al despliegue militar estratégico para acallar radioemisoras que **informaban** los sucesos del golpe de Estado, o que eran **opositoras** al régimen.
+:::
+
+Militares dispararon [16 cohetes]{.cifra} para silenciar **Radio Corporación.** Luego se bombardearon **Radio Recabarren**, **Radio pacífico**, **Radio Portales** y **Sargento Candelaria**.
+
+La última radio en pie fue **Radio Magallanes**, mediante la cual el presidente Allende pudo emitir su [último discurso](https://www.youtube.com/watch?v=EC4gSxMzzpQ). Inmediatamente luego de transmitir el discurso, fue allanada por militares, quienes detuvieron a los periodistas.
+
+::: {.centrar}
+![](img/censura/jeanette_fuentealba_rodriguez.jpeg){style="max-width:60%;"}
+:::
+
+:::{.pie-foto}
+Jeanette Fuentealba Rodríguez, 11 años.
+:::
+
+Durante el bombardeo de radio Corporación, uno de los proyectiles impactó una casa de la población San Gregorio (La Granja), resultando en la **muerte de una niña de 11 años**: Jeanette Fuentealba[20]{.nota}. 
+
+La dictadura falseó su certificado de defunción, indicando que la causa de muerte era _meningitis purulenta._
+
+
+
 ## Responsables
 
 ::: {.titulo style="margin-bottom:20px;"}
@@ -616,6 +715,7 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 [Año 1974:]{.fecha} **privatización de empresas públicas**, como Endesa (electricidad), Iansa (azúcar), Entel (telecomunicaciones), Lan Chile (línea aérea), Laboratorios Chile, Soquimich, entre más de 300 otras. Gran parte de las empresas fueron **vendidas a un precio inferior** al correspondiente[17]{.nota}.
 
 <!-- [Después de 1974]{.subtitulo-left} -->
+[1976:]{.fecha} Implementación del IVA al libro en medio de políticas de clausura de medios de comunicación y censura masiva.
 
 [13 de agosto de 1977:]{.fecha} La DINA es reemplazada por la **Central Nacional de Informaciones** (CNI), órgano de persecución, secuestro, tortura, asesinato y desaparición de opositores políticos.
 
@@ -676,8 +776,18 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 
 **18:** [Biblioteca del Congreso Nacional de Chile. Periodo 1973-1990, Régimen militar.](https://www.bcn.cl/historiapolitica/hitos_periodo/detalle_periodo.html?per=1973-1990)
 
-:::
+**19:** Revista Contexto Latinoamericano. [Los medios de comunicación en Chile durante la dictadura de Augusto Pinochet](https://www.contextolatinoamericano.com/site/article/los-medios-de-comunicacion-en-chile-durante-la-dictadura-de-augusto-pinochet)
 
+**20:** BBC News Mundo. [Bombardeo a La Moneda: los otros ataques aéreos que hubo el 11 de septiembre de 1973 en Santiago](https://www.bbc.com/mundo/articles/cyjgz0x9v78o)
+
+**21:** Doble Espacio, revista de la Escuela de Periodismo de la Universidad de Chile. [“Cenizas del papel”: el exterminio del libro en dictadura](https://doble-espacio.uchile.cl/2023/09/03/cenizas-del-papel-el-exterminio-del-libro-en-dictadura/)
+
+**22:** Memoria Chilena. [Periodismo de oposición (1976-1989)](https://www.memoriachilena.gob.cl/602/w3-article-773.html#presentacion)
+ 
+**23:** Biblioteca del Congreso Nacional de Chile. [Libertad de expresión en Chile.](https://www.bcn.cl/laborparlamentaria/participacion?idParticipacion=1988695)
+
+ 
+:::
 <br>
 
 ----

@@ -10,6 +10,7 @@ Infografía que recopila visualizaciones de datos acerca de los crímenes de les
 
 ### Actualizaciones
 
+- 09/09/2025: apartado sobre censura
 - 08/09/2025: apartado sobre segregación, posibilidad de hacer zoom a fotos
 - 07/09/2025: apartado sobre infancias, línea de tiempo
 - 03/09/2025: apartados con relatos sobre casos insignes de víctimas: caso Sebastián Acevedo y caso quemados

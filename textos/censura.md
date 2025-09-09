@@ -90,6 +90,7 @@ otras derribadas: la Portales y la Sargento Candelaria.
 
 La última que quedó al aire fue radio Magallanes, desde la que Allende dio su último discurso.
 
+
 Ligada a la “Operación Silencio” hay una historia sobre la que penden muchas interrogantes: la muerte de Jeannette Fuentealba Rodríguez, una niña de 11 años que vivía en la población San Gregorio, a menos de dos kilómetros de la antena de radio Corporación, el primer blanco de López Tobar.
 
 Según su familia, la pequeña murió debido a un proyectil lanzado por un Hawker Hunter que esa mañana del 11 de septiembre impactó en contra de su casa.
@@ -98,12 +99,13 @@ Luego del impacto, la niña fue trasladada al hospital y tres semanas después, 
 
 
 
-[v]: https://www.bcn.cl/laborparlamentaria/participacion?idParticipacion=1988695
-[w]: https://www.bbc.com/mundo/articles/cyjgz0x9v78o
+[v/23]: Biblioteca del Congreso Nacional de Chile. [Libertad de expresión en Chile.](https://www.bcn.cl/laborparlamentaria/participacion?idParticipacion=1988695)
 
-[z]: https://www.contextolatinoamericano.com/site/article/los-medios-de-comunicacion-en-chile-durante-la-dictadura-de-augusto-pinochet
+[w/20]: BBC News Mundo. [Bombardeo a La Moneda: los otros ataques aéreos que hubo el 11 de septiembre de 1973 en Santiago](https://www.bbc.com/mundo/articles/cyjgz0x9v78o)
+
+
+[z/19]: [Los medios de comunicación en Chile durante la dictadura de Augusto Pinochet](https://www.contextolatinoamericano.com/site/article/los-medios-de-comunicacion-en-chile-durante-la-dictadura-de-augusto-pinochet)
  
-[y]: Periodismo de oposición (1976-1989)
- https://www.memoriachilena.gob.cl/602/w3-article-773.html#presentacion
+[y/22]: Memoria Chilena. [Periodismo de oposición (1976-1989)](https://www.memoriachilena.gob.cl/602/w3-article-773.html#presentacion)
  
-[x]: https://doble-espacio.uchile.cl/2023/09/03/cenizas-del-papel-el-exterminio-del-libro-en-dictadura/
+[x/21]: Doble espacio, revista de la Escuela de Periodismo de la Universidad de Chile. [“Cenizas del papel”: el exterminio del libro en dictadura](https://doble-espacio.uchile.cl/2023/09/03/cenizas-del-papel-el-exterminio-del-libro-en-dictadura/)
