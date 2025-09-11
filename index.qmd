@@ -379,9 +379,9 @@ Miles de chilenas y chilenos decidieron salir del país para proteger su vida o 
 
 ![](img/violaciones_ddhh_chile_19.png)
 
+:::{style="margin-bottom:-12px;"}
 Pero también la dictadura usó el exilio como mecanismo para **remover opositores y enemigos políticos**: en 1973 se instaura el _decreto 81_, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (…) que a juicio del Gobierno constituyan un **peligro** para el Estado”.
-
-
+:::
 
 ## Desaparecidos
 
@@ -532,7 +532,7 @@ La gran mayoría de las desapariciones se llevaron a cabo durante los primeros a
 
 
 
-::::: {.testimonios}
+::::: {.testimonios style="margin-bottom:-20px;"}
 
 [“]{.comilla}
 
@@ -611,8 +611,9 @@ Se relocalizó a la fuerza a **pobladores de bajos recursos** en sectores margin
 En [esta gráfica](https://www.memoriachilena.gob.cl/602/w3-article-618466.html), los círculos negros representan pobladores que fueron erradicados de sus viviendas, campamentos o tomas, y fueron reubicados forzosamente en las zonas marginales o de bajos recursos representadas por los círculos negros.
 :::
 
+:::{style="margin-bottom:-20px;"}
 Con la Constitución de 1980, **la vivienda dejó de ser un derecho.**
-
+:::
 
 ## Censura
 
@@ -863,8 +864,9 @@ Las principales organizaciones e instituciones del Estado que participaron en es
 
 La DINA fue la **policía secreta** de la dictadura, creada específicamente para llevar a cabo **operaciones clandestinas**. En 1977 fue reemplazada por la Central Nacional de Informaciones (CNI). 
 
+:::{style="margin-bottom:-20px;"}
 ![](img/violaciones_ddhh_chile_24.png)
-
+:::
 
 
 ## Línea de tiempo
@@ -925,7 +927,7 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 
 [29 de octubre de 1981:]{.fecha} El nuevo Código de Aguas establece al recurso como un bien económico privado, dando lugar a la **privatización del agua**.
 
-[Marzo de 1981: se crea la ley para que los trabajadores depositen sus cotizaciones en **proveedores de salud privados**, creando las Isapre[18]{.nota}.
+[Marzo de 1981:]{.fecha} se crea la ley para que los trabajadores depositen sus cotizaciones en **proveedores de salud privados**, creando las Isapre[18]{.nota}.
 
 [31 de diciembre de 1982:]{.fecha} el sistema de **AFP** se vuelve el modelo obligatorio de pensiones para los trabajadores nuevos.
 :::
