@@ -10,6 +10,8 @@ Infografía que recopila visualizaciones de datos acerca de los crímenes de les
 
 ### Actualizaciones
 
+- 10/09/2025: fichas de principales violadores de derechos humanos: Krasnoff, Contreras, Corvalán, Romo y Moren.
+- 10/09/2025: apartados con caso de los 119, caso de Michel Nash, y caso degollados
 - 09/09/2025: apartado sobre censura
 - 08/09/2025: apartado sobre segregación, posibilidad de hacer zoom a fotos
 - 07/09/2025: apartado sobre infancias, línea de tiempo
@@ -19,4 +21,4 @@ Infografía que recopila visualizaciones de datos acerca de los crímenes de les
 
 ### Notas técnicas
 
-Esta página fue construida completamente usando Quarto desde RStudio, publicando el sitio gratuitamente a GitHub Pages.
+Esta página fue construida completamente usando [Quarto desde RStudio](https://bastianolea.rbind.io/blog/quarto_reportes/), publicando el sitio gratuitamente a [GitHub Pages.](https://bastianolea.rbind.io/blog/tutorial_quarto_github_pages/)

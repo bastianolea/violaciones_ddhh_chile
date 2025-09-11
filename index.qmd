@@ -142,7 +142,7 @@ Una enorme cantidad de los detenidos durante la dictadura fueron sometidos siste
 
 ![](img/violaciones_ddhh_chile_9.png)
 
-El objetivo de estos actos inhumanos (cometidos en su mayoría por ciudadanos que hoy siguen en libertad) fue principalmente el **extraer información**, pero más allá de este criterio funcional, la consecuencia directa de la tortura era el ejercer **gobierno a través del terror**, tanto sobre las víctimas directas como en el general de la población que poco a poco tomaba conocimiento de lo que podía costarles el oponerse a la dictadura.
+El objetivo de estos actos inhumanos (cometidos en su mayoría por militares y ciudadanos que hoy siguen en libertad) fue principalmente el **extraer información**, pero más allá de este criterio funcional, la consecuencia directa de la tortura era el ejercer **gobierno a través del terror**, tanto sobre las víctimas directas como en el general de la población que poco a poco tomaba conocimiento de lo que podía costarles el oponerse a la dictadura.
 
 ![](img/violaciones_ddhh_chile_10.png)
 
@@ -251,6 +251,38 @@ Representación visual de las vidas arrebatadas por la dictadura, donde cada cru
 ![](img/violaciones_ddhh_chile_13a.png)
 
 
+
+::::: {.caja style="margin-bottom:34px;"}
+<span>
+[Caso degollados]{.caja-titulo}
+</span>
+
+:::: {.caja-texto}
+Secuestro de y ejecución por parte de Carabineros de Chile, en el año 1985, de tres activistas y militantes políticos: José Manuel Parada, Manuel Guerrero Ceballos y Santiago Nattino.
+
+![](img/caso_degollados/parada.jpg){style="max-width:40%; max-height:220px; float:right; margin: 8px;"}
+
+**José Manuel Parada** fue un sociólogo que participó del **Comité Pro Paz**, organismo de derechos humanos que velaba por las personas perseguidas por la dictadura, luego sucedido por la **Vicaría de la Solidaridad**. Participaba recopilando testimonios de víctimas de la dictadura, y asesorándoles en materia judicial. Fue golpeado luego de haber ido a dejar a su hija a la escuela, mientras conversaba con Guerrero.
+
+![](img/caso_degollados/guerrero.jpg){style="max-width:40%; max-height:220px; float:right; margin: 8px;"}
+
+**Manuel Guerrero** encargado de la **Organización Nacional de los Trabajos Voluntarios**. Durante la dictadura fue herido de bala y detenido en un centro clandestino. Una vez liberado, viajó al exilio en Suecia, y a su retorno llegó a ser elegido presidente del consejo metropolitano de la Asociación Gremial de Educadores de Chile. Guerrero había sido buscado por Carabineros, quienes allanaron a la Asociación la noche anterior, secuestrando a otros 5 profesores. Guerrero fue secuestrado en la puerta del colegio donde daba clases, junto a Parada.
+
+![](img/caso_degollados/nattino.jpg){style="max-width:40%; max-height:220px; float:right; margin: 8px;"}
+
+**Santiago Nattino** era artista gráfico, y produjo afiches para la campaña presidencial de Allende, luego dedicándose a divulgación en el Servicio Agrícola y Ganadero. Fue prisionero en el Estado Nacional, y luego de ser liberado realizó afiches para la **Vicaría de la Solidaridad**. Fue secuestrado a metros de su casa por agentes de Carabineros
+
+Los tres fueron llevados por la fuerza a la Dirección de Comunicaciones de Carabineros, donde **los esposaron, les vendaron los ojos y los torturaron**. Durante la madrugada del día siguiente, Nattino, Guerrero y Parada fueron trasladados hasta una zona de Quilicura cercana al aeropuerto. Ahí fueron esposados, vendados, y degollados, sufriendo uno de los crímenes más horrendos de la dictadura.
+
+![](img/caso_degollados/memorial.png)
+
+::: {.pie-figura}
+Memorial de las tres sillas, por su vinculación con la educación y en alusión a los secuestros fuera de una escuela.
+:::
+::::
+:::::
+
+
 ::: {.titulo .subtitulo}
 La Caravana de la Muerte
 :::
@@ -270,28 +302,28 @@ Operación Albania
 
 Se produjo entre el 15 y 16 de junio de 1987. La CNI hizo uso minucioso de inteligencia obtenida luego del frustrado magnicidio de 1986 y de otras operaciones reprimidas, lo cual –junto a extensos seguimientos de las víctimas– posibilitó a la institución dar con los domicilios, sedes operativas o rutas de desplazamiento de 12 militantes del Frente Patriótico Manuel Rodríguez. Sus **asesinatos** fueron encubiertos por las autoridades como “enfrentamientos”.
 
-::: {.titulo .subtitulo}
-<br>
-Manuel Contreras
-:::
+<!-- ::: {.titulo .subtitulo} -->
+<!-- <br> -->
+<!-- Manuel Contreras -->
+<!-- ::: -->
 
-:::: {.columns}
+<!-- :::: {.columns} -->
 
-::: {.column width="30%"}
+<!-- ::: {.column width="30%"} -->
 
-![](img/mamo_contreras.jpg){style="width:95%; margin-top:0px;"}
+<!-- ![](img/mamo_contreras.jpg){style="width:95%; margin-top:0px;"} -->
 
-:::
+<!-- ::: -->
 
-::: {.column style="width: 70%; margin-top:8px; text-justify: right; text-align: right;"}
+<!-- ::: {.column style="width: 70%; margin-top:8px; text-justify: right; text-align: right;"} -->
 
-Director de la DINA entre 1974 y 1977, y luego de la CNI, fue responsable directo de miles de detenciones, torturas, asesinatos y desapariciones forzadas. Condenado a **más de 360 años de prisión** por estos crímenes, murió en la cárcel en 2015.
+<!-- Director de la DINA entre 1974 y 1977, y luego de la CNI, fue responsable directo de miles de detenciones, torturas, asesinatos y desapariciones forzadas. Condenado a **más de 360 años de prisión** por estos crímenes, murió en la cárcel en 2015. -->
 
-Fuentes[13]{.nota} indican que participó de al menos 18 **homicidios**, 78 **secuestros** y 20 casos de **apremios ilegítimos**.
-:::
-::::
+<!-- Fuentes[13]{.nota} indican que participó de al menos 18 **homicidios**, 78 **secuestros** y 20 casos de **apremios ilegítimos**. -->
+<!-- ::: -->
+<!-- :::: -->
 
-<br>
+<!-- <br> -->
 
 ::: {.titulo .subtitulo}
 Ejecutados por año
@@ -466,6 +498,30 @@ Los agentes de la dictadura, apoyados por civiles, desaparecieron compatriotas a
 Más de la mitad de las desapariciones ocurrieron en la Región Metropolitana.
 
 
+
+
+::::: {.caja style="margin-top:34px;"}
+<span>
+[Por negarse a reprimir su pueblo]{.caja-titulo}
+</span>
+
+:::: {.caja-texto}
+
+Con tan sólo 19 años, Michel Nash se encontraba realizando el servicio militar para el golpe de Estado. Su tragedia lo volvió en un ejemplo de **conciencia y resistencia** ante la violencia Estatal.[25, 26]{.nota} 
+
+![](img/michel_nash.jpg){style="max-width:40%; max-height:220px; float:left; margin-right:14px; margin-left:0; margin-top:4px; margin-bottom:4px;"}
+
+Siendo parte del ejército como conscripto, se le dio la instrucción de participar de allanamientos y detención de personas, conforme a las órdenes de la recién instaurada dictadura militar. Michel se negó a reprimir civiles opositores al régimen, presentándose ante sus superiores para pedir que se le diera de baja, dado que le resultaba inconcebible reprimir a su propio pueblo. 
+
+Como represalia a su rebeldía, Michel fue detenido y llevado al **campo de prisioneros de Pisagua**, en la región de Tarapacá. Luego de días de **detención y tortura**, un oficial lo seleccionó específicamente a él, junto a otros 5 prisioneros, supuestamente para realizar trabajos fuera del recinto. A pesar de que Michel se encontraba en deplorable condición física producto de las torturas, se vio forzado a obedecer. Ese día, militares informaron que Michel Nash había sido **ejecutado** durante un supuesto intento de fuga. El cuerpo de Michel fue desaparecido. 
+
+Su madre, Ana Sáez, lo buscó durante 44 años. Ella falleció en 2018, sin haber podido darle descanso al cuerpo de su hijo.
+::::
+:::::
+
+
+
+
 ::: {.subtitulo style="margin-top:32px;"}
 Desapariciones forzadas por año
 :::
@@ -582,7 +638,6 @@ Medidas de censura y control de medios
 :::
 
 ::: {.ojitos}
-
 [El [primer comunicado](https://www.memoriachilena.gob.cl/602/w3-article-92134.html) de la Junta militar amenaza a toda la prensa, radios y canales de televisión afines a la Unidad Popular a que **suspendan sus actividades informativas**, de lo contrario recibirán “castigo aéreo y terrestre”.]{.ojito}
 
 [El bando Nº107 del 11 marzo de 1977 otorga a la Junta la facultad de **autorizar o impedir nuevos medios de comunicación** y **censurar cualquier contenido** contrario a los principios del régimen.[22]{.nota}]{.ojito}
@@ -592,8 +647,34 @@ Medidas de censura y control de medios
 [El [decreto ley N° 1.281](https://www.bcn.cl/leychile/navegar?i=6549), de diciembre de 1975, establece la **suspensión** de medios de comunicación hasta por seis ediciones por _desfigurar_ hechos o producir alarma.]{.ojito}
 
 [La Constitución de 1980, en su disposición 24, faculta al Presidente a **restringir la libertad de información**, en cuanto a la fundación, edición y circulación de nuevas publicaciones.[21]{.nota}]{.ojito}
-
 :::
+
+
+
+
+::::: {.caja}
+<span>
+[Operación Colombo]{.caja-titulo}
+</span>
+
+
+![](img/censura/prensa_operacion_colombo.jpg){fig-alt="Portadas de diarios" .lightbox}
+
+::: {.pie-figura}
+_Portadas de diarios encubriendo el asesinato de los 119_
+:::
+
+:::: {.caja-texto}
+Operativo mediático montado por la DINA en 1975 para **encubrir la desaparición forzada** de 119 personas, 19 de ellas mujeres, y una de ellas embarazada.[24]{.nota}
+
+El 24 de julio de 1975, el diario La Segunda publicó en su portada “Exterminados como Ratones”, siendo pieza principal de un **montaje mediático** para encubrir los casos de detenidos desaparecidos en el país. Otros medios que se sumaron a la mentira fueron _El Mercurio, Las Últimas Noticias_ y _La Tercera_. Todos ellos informaron a la población que las desapariciones de militantes de izquierda, principalmente del Movimiento de Izquierda Revolucionaria, correspondían a víctimas de una supuesta guerra interna. La idea era **engañar a la población usando información falsa** para hacer pasar las desapariciones forzadas como enfrentamientos de distinto tipo. Se llegaron a crear publicaciones extranjeras para dar sustento a las acusaciones de guerrilla interna o incluso purgas que explicarían la muerte y paradero desconocido de los jóvenes ejecutados por la dictadura.
+
+Nada de ésto fue verdad, ya que se determinó que las 119 personas fueron detenidas, torturadas y hechas desaparecer. Se trata de un caso paradigmático de la **capacidad de deformar la verdad** cuando se posee el control total de la prensa y las comunicaciones de un país.
+::::
+:::::
+
+
+
 
 ::: {.subtitulo style="margin-top:28px;"}
 Clausura de prensa
@@ -668,6 +749,111 @@ La dictadura falseó su certificado de defunción, indicando que la causa de mue
 
 
 ## Responsables
+
+::: {.titulo style="margin-bottom:20px;"}
+Agentes del Estado
+:::
+
+::: {.bajada}
+Principales violadores de derechos humanos
+:::
+
+::: {.monstruo}
+Manuel “Mamo” Contreras
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](img/monstruos/contreras2.png){.monstruo-imagen}
+:::
+
+::: {.column .monstruo-texto width="70%"}
+Director de la [DINA](#prisioneros) entre 1974 y 1977, y luego de la CNI, fue responsable directo de miles de detenciones, torturas, asesinatos y desapariciones forzadas. 
+
+Condenado a **más de 360 años de prisión** por estos crímenes, murió en la cárcel en 2015.
+
+Fuentes[13]{.nota} indican que participó de al menos 18 homicidios, 78 secuestros y 20 casos de apremios ilegítimos.
+:::
+::::
+
+
+::: {.monstruo}
+Miguel Krasnoff
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](img/monstruos/krasnoff.jpg){.monstruo-imagen}
+:::
+::: {.column .monstruo-texto width="70%"}
+Brigadier del Ejército y miembro designado de la DINA, ha sido condenado por casos de secuestro, tortura y desaparición de personas.
+
+Se trata de uno de los militares con más condenas en Chile, totalizando más de 25 ratificadas, las cuales **suman más de 1000 años ed cárcel.** Actualmente cumple su condena en el penal Punta Peuco. 
+
+Jamás ha reconocido su culpa.
+:::
+::::
+
+::: {.monstruo}
+Álvaro Corbalán
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](img/monstruos/corvalan.jpg){.monstruo-imagen}
+:::
+::: {.column .monstruo-texto width="70%"}
+Militar de grado de mayor, agente de la CNI. Fue presidente del partido de extrema derecha _Avanzada Nacional_, que luego se fusionaría con el _Partido Nacional._
+
+Cumple **más de 100 años de condena** por homicidios, secuestros y desapariciones forzadas, incluyendo participación en la Operación Albania. 
+
+Actualmente cumple condena en Punta Peuco.
+:::
+::::
+
+
+::: {.monstruo}
+Osvaldo “Guatón” Romo
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](img/monstruos/romo2.jpg){.monstruo-imagen}
+:::
+::: {.column .monstruo-texto width="70%"}
+Reconocido torturador, agente de la DINA. Es uno de los pocos que reconoció con orgullo las repulsivas vejaciones que cometió, incluyendo violencia sexual. Fue protegido por la dictadura cuando empezaron a investigar sus crímenes, a pesar de no ser militar. Durante su juicio, delató a otros miembros de la DINA.
+
+Cumplió condenas por torturas, secuestro, y desaparición forzada.
+
+Fallece en 2007. Nadie estuvo presente en su entierro.
+:::
+::::
+
+::: {.monstruo}
+Marcelo Moren Brito
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](img/monstruos/moren.jpg){.monstruo-imagen}
+:::
+::: {.column .monstruo-texto width="70%"}
+Coronel del ejército, jefe operativo de la DINA, y torturador.
+
+Estuvo relacionado con más de 90 casos de detenidos desaparecidos o ejecutados. Fue condenado por secuestro y desaparición de 4 personas.
+
+Acumuló más de 300 años de condenas por violaciones de los derechos humanos. Fallece en 2015.
+:::
+::::
+
+
+:::{style="margin-top:20px; margin-bottom:34px;"}
+Éstos son solamente algunos de los principales ejecutores de las operaciones de terrorismo de Estado durante la dictadura. Fueron apoyados por centenares de militares, uniformados y civiles afines al régimen, quienes realizaron los actos más deshumanizantes para lograr sus objetivos políticos y económicos.
+:::
+
+::: {.subtitulo}
+Responsables
+:::
 
 ::: {.titulo style="margin-bottom:20px;"}
 Instituciones que llevaron a cabo detenciones[2]{.nota}
@@ -795,6 +981,14 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 **22:** Memoria Chilena. [Periodismo de oposición (1976-1989)](https://www.memoriachilena.gob.cl/602/w3-article-773.html#presentacion)
  
 **23:** Biblioteca del Congreso Nacional de Chile. [Libertad de expresión en Chile.](https://www.bcn.cl/laborparlamentaria/participacion?idParticipacion=1988695)
+
+**24:** Museo de la Memoria y los Derechos Humanos. [Historias con Memoria, Operación Colombo](https://mmdh.cl/noticias/historias-con-memoria/post-noticia-96)
+
+**25:** CNN Chile. [Objeción de conciencia de un valiente soldado: La historia del conscripto Michel Nash](https://www.cnnchile.com/pais/michel-nash-historia-objecion-de-conciencia_20240707/)
+
+**26:** Memoria Viva: [Nash Sáez Michel Selim.](https://memoriaviva.com/nuevaweb/ejecutados-politicos/ejecutados-politicos-n/nash-saez-michel-selim/)
+
+**27:** Radio Universidad de Chile. [Caso Degollados: "Fue un golpe en el corazón de la Vicaría de la Solidaridad y a todos los trabajadores"](https://radio.uchile.cl/2025/03/29/caso-degollados-fue-un-golpe-en-el-corazon-de-la-vicaria-de-la-solidaridad-y-a-todos-los-trabajadores/)
 
  
 :::

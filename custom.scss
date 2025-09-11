@@ -154,7 +154,7 @@ h2, h3 {
 
 .caja-texto {
   font-family: Courier New, monospace;
-  font-size: 85%; 
+  font-size: 82%; 
   text-align: left;
 }
 
@@ -290,3 +290,37 @@ li {
 	margin-bottom: 16px;
 }
 */
+
+.pie-figura {
+  margin-top: -10px;
+  color: #a7a7a7;
+  font-size: .8rem;
+}
+
+.monstruo {
+  margin-top:24px;
+  margin-bottom:-10px;
+  font-family: 'Barlow Semi Condensed', sans-serif !important;
+  text-transform: uppercase !important;
+  font-weight: bold;
+  color: black;
+  background-color: #E7E7E7;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-right: 0px;
+}
+
+.monstruo-imagen {
+  max-height:200px;
+  float: right;
+}
+
+.monstruo-texto {
+  margin-top: 8px;
+  font-size: 85%;
+}
+
+.monstruo-texto p {
+  line-height: 1;
+  margin-bottom: 8px !important;
+}
