@@ -25,11 +25,11 @@ lightbox: true
 
 Amplio es el prontuario en materia de violación a los derechos humanos que pesa sobre la dictadura cívico-militar chilena. 
 
-El uso de la violencia entre 1973 y 1989 no fueron errores ni excesos: fue **política de Estado.** La eliminación selectiva de ciudadanos y ciudadanas contribuyó directamente a los objetivos políticos e ideológicos del régimen autoritario encabezado por el dictador Augusto Pinochet Ugarte.
+El uso del terror y la violencia entre 1973 y 1989 fue una **política de Estado** dirigida a la instalación de un sistema político y económico. La eliminación selectiva de ciudadanos y ciudadanas contribuyó directamente a los objetivos ideológicos del régimen autoritario encabezado por el dictador Augusto Pinochet Ugarte. Por estas razones, los hechos siguen vigentes.
 
-La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y el entorno social de las víctimas, así como un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con sangre chilena continúa más vivo que nunca.
+A 52 años del golpe, la herida de esos hechos continúa abierta. Un profundo sentimiento de injusticia e impunidad ronda nuestro país, en tanto el sistema que se alimentó con sangre chilena continúa más vivo que nunca. Los hechos de la dictadura fueron y siguen siendo respaldado por políticos y candidatos presidenciales de derecha.
 
-Esta infografía sobre violaciones a los derechos humanos busca resumir las atrocidades cometidas por la dictadura, basándose en informes oficiales y de organizaciones de derechos humanos, para servir como material que reúna en un sólo lugar la mayor cantidad de información.
+Esta infografía sobre violaciones a los derechos humanos busca resumir las atrocidades cometidas por la dictadura, basándose en informes oficiales, reportajes de prensa, e información de organizaciones de derechos humanos, para servir como material que reúna en un sólo lugar la mayor cantidad de información.
 
 ![](img/fotos_1.jpg){style="margin-top:16px;"}
 
@@ -81,7 +81,7 @@ Al entrar a la comisaría, casi al anochecer, escuché unos gritos desgarradores
 ::::
 :::::
 
-A través de las detenciones se nutrían las organizaciones de inteligencia y se reprimía la oposición, generando así condiciones para la consolidación política del régimen.
+A través de las detenciones se nutrían las organizaciones de inteligencia, se reprimía la oposición, y se esparcía el terror, generando así condiciones para la consolidación política del régimen.
 
 ::: {.subtitulo style="margin-top:30px;margin-bottom: -20px;"}
 Detenciones por período[1]{.nota}
@@ -91,9 +91,11 @@ Detenciones por período[1]{.nota}
 
 La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
 
-<br>
 
-::::: {.caja}
+
+
+
+::::: {.caja style="margin-top:34px;"}
 <span>
 [Inmolado por sus hijos]{.caja-titulo}
 </span>
@@ -112,6 +114,7 @@ Falleció horas mas tarde, y su inmolación se tornó inspiración para la creac
 :::::
 
 
+
 ## Prisioneros
 
 ::: {.titulo}
@@ -127,6 +130,32 @@ Los **centros de detención y tortura** tuvieron un rol vital en la política de
 Comisarías, regimientos, escuelas, edificios públicos y casas particulares son algunos de los lugares que serían utilizados con estos fines. Algunos de los más conocidos son el Estadio Nacional, Isla Dawson, Villa Grimaldi, Londres 38, la Venda Sexy, entre otros[6]{.nota}
 
 ![](img/violaciones_ddhh_chile_8.png)
+
+
+:::{.subtitulo style="margin-top: 34px;"}
+Estadio Nacional
+:::
+
+Si bien durante la dictadura existieron **más de mil centros de detención y tortura**, uno de ellos destaca: el Estadio Nacional. 
+
+:::: {style="text-align: right;"}
+:::{style="margin-top: -16px; margin-bottom: -16px;"}
+Más de [7 mil]{.cifra} prisioneros los primeros días. 
+:::
+
+:::{style="margin-top: -16px; margin-bottom: 0px;"}
+Cerca de [40 mil]{.cifra} prisioneros en total.
+:::
+::::
+
+![](img/estadio_nacional.jpeg)
+
+:::{style="margin-bottom: -18px;"}
+El Estadio fue usado como campo de concentración masivo, con el objetivo de **despolitizar** y **someter** a la población por medio del **terror**.
+:::
+
+
+
 
 ## Torturas
 
@@ -226,6 +255,24 @@ Numerosas operaciones llevadas a cabo durante la dictadura involucraron la ejecu
 :::
 
 Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestantes eran blancos recurrentes del régimen. La indignante cantidad de ejecutados políticos es testimonio del abuso del poder estatal y militar en su máxima expresión.
+
+
+
+:::: {style="margin-top: 0px; margin-bottom: 34px; text-align: right;"}
+
+:::{style="margin-bottom: 0px;"}
+En promedio se **asesinó** o **desapareció** un promedio de [195 personas al año]{.blanco}.[28]{.nota}
+:::
+
+:::{style="margin-top: 0px;"}
+Se asesinaron a [16 personas al mes]{.blanco} en promedio durante la dictadura.[28]{.nota} Entre septiembre y octubre de 1973, este promedio fue de [33 muertos diarios]{.blanco}.[28]{.nota}
+:::
+
+:::{style="margin-top: 0px;"}
+El día del golpe de Estado, 11 de septiembre, el número de **asesinatos** y **desapariciones** llegó hasta un máximo de [78 personas]{.blanco}.[28]{.nota}
+:::
+::::
+
 
 :::{.centrar"}
 [Región Metropolitana]{.subtitulo}
@@ -1001,6 +1048,7 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 
 **27:** Radio Universidad de Chile. [Caso Degollados: "Fue un golpe en el corazón de la Vicaría de la Solidaridad y a todos los trabajadores"](https://radio.uchile.cl/2025/03/29/caso-degollados-fue-un-golpe-en-el-corazon-de-la-vicaria-de-la-solidaridad-y-a-todos-los-trabajadores/)
 
+**28:** Escuela de Salud Pública, Unievrsidad de Chile. [A 50 años del golpe de Estado en Chile: Estadísticas que duelen](https://saludpublica.uchile.cl/noticias/209580/a-50-anos-del-golpe-de-estado-en-chile-estadisticas-que-duelen)
  
 :::
 <br>
