@@ -19,17 +19,17 @@ lightbox: true
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 
-![](img/violaciones_ddhh_chile_3.png){fig-alt="VIOLACIONES A LOS DERECHOS HUMANOS COMETIDAS POR LA DICTADURA CÍVICO-MILITAR CHILENA"}
+![](img/violaciones_ddhh_chile_3.png){fig-alt="Infografía: Violaciones a los Derechos Humanos cometidas por la dictadura cívico-militar chilena"}
 
 <!-- ![]("img/violaciones_ddhh_chile_4.png") -->
 
 Amplio es el prontuario en materia de violación a los derechos humanos que pesa sobre la dictadura cívico-militar chilena. 
 
-El uso de la violencia entre 1973 y 1989 no fueron errores ni excesos: fue política de Estado. La eliminación selectiva de ciudadanos y ciudadanas contribuyó directamente a los objetivos políticos e ideológicos del régimen encabezado por el dictador Augusto Pinochet Ugarte. 
+El uso de la violencia entre 1973 y 1989 no fueron errores ni excesos: fue **política de Estado.** La eliminación selectiva de ciudadanos y ciudadanas contribuyó directamente a los objetivos políticos e ideológicos del régimen autoritario encabezado por el dictador Augusto Pinochet Ugarte.
 
 La consecuencia directa de esto ha sido un sufrimiento permanente para las familias y el entorno social de las víctimas, así como un profundo sentimiento de injusticia e impunidad para nuestro país, en tanto el sistema que se alimentó con sangre chilena continúa más vivo que nunca.
 
-Esta infografía busca resumir las atrocidades cometidas por la dictadura, basándose en informes oficiales y de organizaciones de derechos humanos.
+Esta infografía sobre violaciones a los derechos humanos busca resumir las atrocidades cometidas por la dictadura, basándose en informes oficiales y de organizaciones de derechos humanos, para servir como material que reúna en un sólo lugar la mayor cantidad de información.
 
 ![](img/fotos_1.jpg){style="margin-top:16px;"}
 
@@ -379,9 +379,32 @@ Miles de chilenas y chilenos decidieron salir del país para proteger su vida o 
 
 ![](img/violaciones_ddhh_chile_19.png)
 
-:::{style="margin-bottom:-12px;"}
 Pero también la dictadura usó el exilio como mecanismo para **remover opositores y enemigos políticos**: en 1973 se instaura el _decreto 81_, que faculta a la autoridad para expulsar del país a sus ciudadanos arbitrariamente. Desde 1974, el decreto 604 “prohíbe el ingreso al territorio nacional a las personas (…) que a juicio del Gobierno constituyan un **peligro** para el Estado”.
+
+
+
+::::: {.testimonios style="margin-top:20px;margin-bottom:-20px;"}
+
+[“]{.comilla}
+
+:::: {.testimonio}
+Fui violada, me ponían corriente, me quemaron con cigarrillos, me hacían "chupones", me pusieron ratas. Creo que estuve en [recinto secreto de la DINA], me amarraron a una camilla donde unos perros amaestrados me violaron. Estaba siempre con scotch, después una venda y después una capucha. Se reían, nos ofrecían comida y nos daban cáscaras de naranjas. Nos despertaban de noche para perder la noción del tiempo.
+
+::: {.firma}
+(Mujer, 16 años, región Metropolitana, 1975)
 :::
+::::
+
+:::: {.testimonio}
+Me trajeron un dentista según ellos, pero para mí era otro torturador; a sangre fría me hace las preguntas correspondientes y le indico mi dolor, y el criminal me empieza a sacar muelas sin ninguna anestesia, tenía ayudantes que te sujetaban tirándote el pelo y los otros de las manos y pies. Allí perdí tres muelas. El dolor era insoportable, y no tenía derecho a pedir calmante alguno...
+
+::: {.firma}
+(Hombre, 23 años, región del Biobío, 1973)
+:::
+
+::::
+:::::
+
 
 ## Desaparecidos
 
@@ -532,28 +555,14 @@ La gran mayoría de las desapariciones se llevaron a cabo durante los primeros a
 
 
 
-::::: {.testimonios style="margin-bottom:-20px;"}
 
-[“]{.comilla}
-
-:::: {.testimonio}
-Fui violada, me ponían corriente, me quemaron con cigarrillos, me hacían "chupones", me pusieron ratas. Creo que estuve en [recinto secreto de la DINA], me amarraron a una camilla donde unos perros amaestrados me violaron. Estaba siempre con scotch, después una venda y después una capucha. Se reían, nos ofrecían comida y nos daban cáscaras de naranjas. Nos despertaban de noche para perder la noción del tiempo.
-
-::: {.firma}
-(Mujer, 16 años, región Metropolitana, 1975)
-:::
-::::
-
-:::: {.testimonio}
-Me trajeron un dentista según ellos, pero para mí era otro torturador; a sangre fría me hace las preguntas correspondientes y le indico mi dolor, y el criminal me empieza a sacar muelas sin ninguna anestesia, tenía ayudantes que te sujetaban tirándote el pelo y los otros de las manos y pies. Allí perdí tres muelas. El dolor era insoportable, y no tenía derecho a pedir calmante alguno...
-
-::: {.firma}
-(Hombre, 23 años, región del Biobío, 1973)
+:::{style="margin-top:20px;"}
+![](img/familiares_dddd.jpeg)
 :::
 
-::::
-:::::
-
+::: {.pie-figura}
+Las y los familiares de detenidos desaparecidos siguen buscando incansablemente justicia y verdad.
+:::
 
 ## Infancias
 
@@ -999,6 +1008,8 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 ----
 
 :::: {style="margin-top:48px; font-size: 80%;"}
+
+_Infografía: Violaciones a los Derechos Humanos cometidas por la dictadura cívico-militar chilena_
 
 Diseñado y producido por [Bastián Olea Herrera](https://bastianolea.rbind.io), con el apoyo de decenas de personas a lo largo de los años. Por favor [contáctame](https://bastianolea.rbind.io/contact/) para agregar información nueva o cualquier corrección.
 
