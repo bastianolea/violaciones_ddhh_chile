@@ -7,7 +7,11 @@ sección de grupos
 - pobladores (expulsión de poblaciones)
 - mujeres
 
-## Sitios de memoria
+
+la dictadura militar endureció los conceptos de hombría y feminidad (Gabriel Salazar)
+
+
+## Sitios de memoria	
 
 Foto al lado derecho, texto al lado izquierdo, botón con enlace a sitios web
 
