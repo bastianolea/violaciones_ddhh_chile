@@ -67,6 +67,10 @@ Marcela Dimonti, una de las participantes en la primera protesta de la diversida
 en enero de 1974 el Frente de Liberación Homosexual de Argentina denunció en su revista Somos el asesinato en Santiago de «La Lola Puñales», homosexual uruguayo de 32 años que fue violado, torturado, castrado y acribillado por un grupo de militares.[11]
 
 
+Dentro de los casos de detenciones ilegales por efectivos de la DINA y la CNI se aplicaba la sodomía en varias ocasiones como método de tortura contra opositores a la dictadura militar
+
+Valech: Dicha situación afectó especialmente en las víctimas, las cuales se imponían un silencio personal y social en respuesta al fuerte impacto emocional asociado a esa forma de tortura, así como por el temor de las víctimas a ser denigradas por ello o que se cuestionara su orientación sexual.[19]
+
 #### Amenazas
 Wiki:
 Los organismos represivos como la Dirección de Inteligencia Nacional (DINA, f. 1974) y la Central Nacional de Informaciones (CNI, f. 1977) investigaron en muchas ocasiones a personas homosexuales o que podían serlo. Un caso paradigmático es el acápite especial sobre «homosexualismo» en la investigación realizada a Jaime Guzmán, uno de los principales ideólogos del pinochetismo y de la constitución de 1980 y fundador del partido conservador Unión Demócrata Independiente. El informe secreto, emitido el 17 de noviembre de 1976, intentaba vigilar a uno de los principales adversarios del director de la DINA —Manuel Contreras— dentro del gobierno, establecía un perfil del abogado y en él se especificaba la cercanía de Guzmán con personas reconocidas por su homosexualidad, y aunque no mencionaba literalmente que éste lo fuera, muestra el nivel de intolerancia que existía en las altas esferas del gobierno hacia diversas orientaciones sexuales.[16] 
@@ -90,6 +94,8 @@ Según la declaración de Bernabé Vega —uno de los homicidas— a la jueza Ma
 
 Poner dentro el de embarazadas
 Destacar mujeres víctimas
+
+En "Mujeres detenidas desaparecidas” falta muchísimo
 
 ----
 
