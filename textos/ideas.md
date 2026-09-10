@@ -97,6 +97,34 @@ Destacar mujeres víctimas
 
 En "Mujeres detenidas desaparecidas” falta muchísimo
 
+https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-214
+> Es el caso de Susana Elizabeth Sanhueza Salinas, una menor de tres años que se encontraba jugando en el antejardín de su casa. Según información del Museo de la Memoria y Derechos Humanos, la niña murió producto de un enfrentamiento entre el MIR y la DINA el 24 de febrero de 1976.
+> Claudia Andrea Valenzuela Velásquez, quien a sus seis años fue ejecutada en su hogar junto a sus padres por Carabineros, en septiembre de 1973, instancia en la que quedaron heridos sus hermanos.
+> Nadia del Carmen Fuentes Concha, una menor de 13 años que el 2 de julio de 1986 fue a comprar pan y recibió el impacto de una bala de Carabineros al tiempo que caminaba por Avenida el Parque (Santiago).
+> Guadalupe del Carmen Chamorro Leiva, una adolescente de 18 años que trabajaba de asesora del hogar. En medio de manifestaciones estudiantiles en contra de la municipalización de la enseñanza (1986), fue asesinada de un balazo mientras transitaba por la vía pública.
+
+https://redaccion.cl/ausencias-historia-mujeres-desaparicion-forzada/
+> Ninguna de las Comisiones de Verdad constituidas en Chile —ni la Rettig, ni la Valech I, ni la Valech II— incorporó un enfoque de género en su diseño ni en su funcionamiento. La ausencia no se limita a un detalle metodológico: atraviesa la recopilación de testimonios, el análisis de la información y la producción de resultados. Se trata de una omisión estructural que determinó qué ciertas violencias fueron vistas, nombradas y validadas mientras que otras debieron esperar décadas para ser reconocidas.
+> desnudez forzada, tocaciones y manoseos de carácter sexual, violaciones individuales y grupales, agresiones con objetos y animales, la introducción de ratas en la vagina, sexo oral forzado incluso con animales, embarazos producto de violaciones y abortos provocados por la propia tortura. 
+
+#### Camarín de mujeres
+https://www.memoriaestadionacional.cl/camarin-norte/
+> Según la versión del ex director de la DINA, Manuel Contreras, en el Estadio Nacional fueron detenidas 509 mujeres: 445 chilenas y 64 extranjeras, principalmente brasileñas, uruguayas, bolivianas y argentinas.
+> Sin embargo, según datos que se han recogido de testimonios de ex prisioneras del estadio, la cantidad de recluidas políticas habría llegado a las 1.200, incluyendo a chilenas y extranjeras. Algunas de las mujeres tenían a sus parejas o maridos también detenidos en el estadio.
+
+
+#### Adopción irregular
+https://radiojgm.uchile.cl/mujeres-dictadura-chilena/
+> A través de engaños, se separaba a los niños de sus madres bajo el pretexto de «mejorar» sus vidas, o se les decía que sus hijos y hijas habían fallecido en el hospital al nacer, cuando en realidad eran dados en adopciones ilegales.
+> Parte importante de esta resistencia se hace desde Hijos y Madres del Silencio, desde donde apuntan a que había un política de Estado de terminar la pobreza quitándole los hijos a las madres, según dice su Presidenta y Fundadora, Marisol Rodríguez.
+
+
+
+Para línea de tiempo (de resistencia?):
+- 1983: concentración “Hoy y no mañana” de alrededor de 10 000 mujeres en el Teatro Caupolicán el 23 de diciembre de 1983, convocado por "Mujeres por la Vida" (Pacheco, Valentina (2020). «Movimiento social de mujeres: un acercamiento a la participación política femenina y a la producción de conocimiento sobre la condición de la mujer en Chile, 1978-1989». ONG en Dictadura (UAH).)
+- 1983: Fue en ese contexto donde se crearon las coordinadoras de organizaciones de mujeres. En 1983 se creó el MEMCH 83’, tomando su nombre del Movimiento Pro Emancipación de la Mujer Chilena (1935-1953). Olga Poblete y Elena Caffarena, dos líderes del movimiento histórico, fueron parte de la creación de esta coordinadora que agrupó a diversas organizaciones de mujeres de izquierda. Mujeres por la vida fue un movimiento que surgió en Chile en 1983 de ámbito nacional como resistencia a la dictadura militar de Augusto Pinochet. El movimiento estuvo conformado por mujeres opositoras al régimen con diversas profesiones, afiliaciones políticas y orígenes sociales, que tenían como objetivo común la restauración de la democracia.
+- 1988: concentración de aproximadamente 25 000 mujeres, en el Estadio Santa Laura el 8 de marzo de 1988. (Gaviola, Edda, Eliana Largo y Sandra Palestro (1994). Una historia necesaria: Mujeres en Chile 1973-1990.)
+
 ----
 
 
