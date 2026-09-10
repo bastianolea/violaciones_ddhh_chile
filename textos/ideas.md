@@ -15,28 +15,8 @@ fotos entre medio:
 - en censura, milicos quemando libros
 - en responsables, foto de la junta, foto de campaña del sí
 
-TOC: poner headings nivel 3 (los que actualmente con .subtitulo)
-
-
 
 ## Sección de grupos
-
-### Personas con discapacidad
-https://openbiblio.museodelamemoria.cl/media/digitales/Doblemente%20Desaparecidos%202024.pdf
-https://mmdh.cl/noticias/institucional/https-mmdh-cl-noticias-institucional-memorias-con-cicatrices
-https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/
-
-
-EL [Núcleo Milenio Disca](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/) ha encontrado registros de 21 personas con discapacidad asesinadas en la dictadura
-
-7 detenidos desaparecidos
-8 personas con discapacidad física, 
-4 personas con discapacidad intelectual, 
-3 personas con discapacidad psíquica
-
-
-Poner historia de: Luis Arturo Navarro Peña
-
 
 ### Personas LGBT+
 la dictadura militar endureció los conceptos de hombría y feminidad (Gabriel Salazar)
@@ -96,12 +76,6 @@ Poner dentro el de embarazadas
 Destacar mujeres víctimas
 
 En "Mujeres detenidas desaparecidas” falta muchísimo
-
-https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-214
-> Es el caso de Susana Elizabeth Sanhueza Salinas, una menor de tres años que se encontraba jugando en el antejardín de su casa. Según información del Museo de la Memoria y Derechos Humanos, la niña murió producto de un enfrentamiento entre el MIR y la DINA el 24 de febrero de 1976.
-> Claudia Andrea Valenzuela Velásquez, quien a sus seis años fue ejecutada en su hogar junto a sus padres por Carabineros, en septiembre de 1973, instancia en la que quedaron heridos sus hermanos.
-> Nadia del Carmen Fuentes Concha, una menor de 13 años que el 2 de julio de 1986 fue a comprar pan y recibió el impacto de una bala de Carabineros al tiempo que caminaba por Avenida el Parque (Santiago).
-> Guadalupe del Carmen Chamorro Leiva, una adolescente de 18 años que trabajaba de asesora del hogar. En medio de manifestaciones estudiantiles en contra de la municipalización de la enseñanza (1986), fue asesinada de un balazo mientras transitaba por la vía pública.
 
 https://redaccion.cl/ausencias-historia-mujeres-desaparicion-forzada/
 > Ninguna de las Comisiones de Verdad constituidas en Chile —ni la Rettig, ni la Valech I, ni la Valech II— incorporó un enfoque de género en su diseño ni en su funcionamiento. La ausencia no se limita a un detalle metodológico: atraviesa la recopilación de testimonios, el análisis de la información y la producción de resultados. Se trata de una omisión estructural que determinó qué ciertas violencias fueron vistas, nombradas y validadas mientras que otras debieron esperar décadas para ser reconocidas.

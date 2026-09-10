@@ -525,7 +525,7 @@ Más de la mitad de las desapariciones ocurrieron en la Región Metropolitana.
 
 :::: {.caja-texto}
 
-Con tan sólo 19 años, Michel Nash se encontraba realizando el servicio militar para el golpe de Estado. Su tragedia lo volvió en un ejemplo de **conciencia y resistencia** ante la violencia Estatal.[25, 26]{.nota} 
+Con tan sólo 19 años, **Michel Nash** se encontraba realizando el servicio militar para el golpe de Estado. Su tragedia lo volvió en un ejemplo de **conciencia y resistencia** ante la violencia Estatal.[25, 26]{.nota} 
 
 ![](img/michel_nash.jpg){style="max-width:40%; max-height:220px; float:left; margin-right:14px; margin-left:0; margin-top:4px; margin-bottom:4px;"}
 
@@ -555,6 +555,47 @@ La gran mayoría de las desapariciones se llevaron a cabo durante los primeros a
 Las y los familiares de detenidos desaparecidos siguen buscando incansablemente justicia y verdad.
 :::
 
+
+## Mujeres
+
+::: {.titulo}
+Mujeres víctimas de violencia dictatorial
+:::
+
+::: {.bajada}
+Intensificación sexista y patriarcal de la crueldad
+:::
+
+El horror no tuvo ningún tipo de consideración por las mujeres, ni siquiera aquellas menores de edad. Por el contrario, la violencia ejercida contra ellas fue multiplicada por vejaciones sexuales y misóginas.[33]{.nota}
+
+::::{style="margin-left:40px; margin-right:40px; margin-top: 20px; margin-bottom: 28px;"}
+
+[Guadalupe del Carmen Chamorro Leiva]{.blanco}, adolescente de **18 años**, asesora del hogar, que fue asesinada por un disparo mientras transitaba por la vía pública durante una manifestación estudiantil, en 1986.
+
+[Nadia del Carmen Fuentes Concha]{.blanco}, una menor de **13 años** que, mientras salió a comprar el pan, fue asesinada de un disparo de Carabineros el 2 de julio de 1986.
+
+[Claudia Andrea Valenzuela Velásquez]{.blanco}, niña de **6 años** ejecutada junto a sus padres en su propio hogar a manos de Carabineros, en septiembre de 1973.
+
+[Susana Elizabeth Sanhueza Salinas]{.blanco}, niña de **3 años** que se encontraba jugando en el antejardín de su casa, fallecida producto de un enfrentamiento entre el MIR y la DINA el 24 de febrero de 1976.
+::::
+
+::::: {.caja}
+
+### Vino del mar
+
+:::: {.caja-texto}
+
+**Marta Ugarte** fue profesora y modista, miembro del Comité Central del Partido Comunista, y Encargada Nacional de Educación del mismo. Fue secuestrada desde su hogar el 9 de agosto de 1976 por personal de la PDI. Las autoridades desconocieron su arresto, incluso la Corte Suprema negó investigar bajo el pretexto de que no existía ninguna persona detenida con su nombre. 
+
+![](img/marta_ugarte.jpg){style="max-width:40%; max-height:220px; float:left; margin-right:14px; margin-left:0; margin-top:4px; margin-bottom:4px;"}
+
+Permaneció detenida en **Villa Grimaldi**, luego trasladada al centro de detención Peldehue (Colina). Fue torturada extensamente, y su rostro fue quemado. Militares usaron una inyección letal para asesinarla; sin embargo, Marta no falleció. Agentes de la DINA procedieron a ahorcarla con un alambre para terminar de matarla, meterla a un saco, y lanzarla desde un helicóptero amarrada a un riel para hundirla en las profundidades del océano.
+
+El cadáver de Marta Ugarte emergió en la playa La Ballena, Los Molles. Flotó hacia la costa al haberse soltado del riel. La prensa de la época, vigilada y controlada por el régimen, reportó el supuesto _crimen pasional_ de una joven y hermosa mujer, encubriendo el horrible crimen de quien sería la primera víctima confirmada de la dictadura. Su identidad fue confirmada por sus hermanas en septiembre de 1976, evidenciando su cuerpo horrendamente mutilado, siendo confirmado el hallazgo por un análisis dental, días más tarde.[29, 30, 31]{.nota}
+::::
+:::::
+
+
 ## Infancias
 
 ::: {.titulo style="margin-bottom:20px;"}
@@ -583,6 +624,69 @@ El régimen de Pinochet detuvo a **1.132 menores de 18 años**, de los cuales 88
 
 
 ![](img/infancias.jpeg){style="margin-top:16px;"}
+
+
+
+## Discapacidad
+
+::: {.titulo}
+Doblemente desaparecidos[32]{.nota}
+:::
+
+::: {.bajada}
+Detenidos desaparecidos en condición de discapacidad
+:::
+
+::: {.centrar style="max-width: 280px;"}
+![](img/disca/victimas_discapacidad_bn.png){fig-alt="3 menores de edad; 21 personas encontradas hasta ahora; 32 años edad promedio (15-78); 20 hombres; 1 mujer; 14 fueron ejecutados políticos; 7 fueron detenidos desaparecidos; 15 no tenían militancia política"}
+:::
+
+Investigadoras/es del [Núcleo Milenio Disca](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/) han encontrado registros de 21 personas con discapacidad asesinadas en la dictadura.
+
+De estas 21 víctimas: 
+
+::::{style="margin-left:40px; margin-right:40px; margin-top: -8px; margin-bottom: 28px;"}
+[7]{.cifra style="margin-right: 4px;"} fueron **detenidos desaparecidos**
+
+[8]{.cifra style="margin-right: 4px;"} fueron personas con discapacidad **física**
+
+[4]{.cifra style="margin-right: 4px;"} fueron personas con discapacidad **intelectual**
+
+[3]{.cifra style="margin-right: 4px;"} fueron personas con discapacidad **psíquica**
+::::
+
+::: {.caja}
+[Luis Arturo Navarro Peña]{.subtitulo}
+
+::::{style="margin-top: -6px; margin-bottom: -6px;"}
+[Asesinado]{.blanco}
+::::
+
+:::: {.caja-texto}
+
+El 12 de septiembre de 1973, Luis salió de su casa a comprar pan en el sector de Sierra Bella con Zanjón de la Aguada, San Joaquín, bajo el reciente toque de queda. Personal uniformado que patrullaba el sector le dio la orden de detenerse, pero Luis no respondió, debido a su **sordera**. Si previo aviso, y sin tener cómo enterarse ni acatar, recibió un impacto de bala, causándole la muerte.
+::::
+
+:::
+
+::: {.caja style="max-height: none;"}
+[Susana del Rosario Gómez Andrade]{.subtitulo}
+
+::::{style="margin-top: -6px; margin-bottom: -6px;"}
+[Detenida desaparecida]{.blanco}
+::::
+
+:::: {.caja-texto}
+
+![](img/disca/susana_gomez.jpg){style="max-width:50%; max-height:200px; float:right; margin-left: 16px; margin-bottom: 8px;"}
+
+De acuerdo a sus familiares, Suzana tenía un diagnostico de **esquizofrenia**, y siendo 12 de septiembre de 1973, se encontraba especialmente alterada por los sucesos. Susana salió a caminar por su población, como hacía habitualmente. El sector se encontraba fuertemente vigilado por militares del Regimiento Rancagua de Arica. Nunca más se supo de su paradero.
+
+::::
+
+
+:::
+
 
 
 ## Segregación
@@ -982,7 +1086,17 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 
 **27:** Radio Universidad de Chile. [Caso Degollados: "Fue un golpe en el corazón de la Vicaría de la Solidaridad y a todos los trabajadores"](https://radio.uchile.cl/2025/03/29/caso-degollados-fue-un-golpe-en-el-corazon-de-la-vicaria-de-la-solidaridad-y-a-todos-los-trabajadores/)
 
-**28:** Escuela de Salud Pública, Unievrsidad de Chile. [A 50 años del golpe de Estado en Chile: Estadísticas que duelen](https://saludpublica.uchile.cl/noticias/209580/a-50-anos-del-golpe-de-estado-en-chile-estadisticas-que-duelen)
+**28:** Escuela de Salud Pública, Universidad de Chile. [A 50 años del golpe de Estado en Chile: Estadísticas que duelen](https://saludpublica.uchile.cl/noticias/209580/a-50-anos-del-golpe-de-estado-en-chile-estadisticas-que-duelen)
+
+**29:** Cristián Torres. [Quién fue Marta Ugarte, la primera víctima de la dictadura de Pinochet cuyos asesinos pagarán con cárcel 45 años después.](https://www.infobae.com/america/america-latina/2021/11/30/quien-fue-marta-ugarte-la-primera-victima-de-la-dictadura-de-pinochet-cuyos-asesinos-pagaran-con-carcel-45-anos-despues/)
+
+**30:** Ivonne Toro Agurto. [Marta Ugarte y el horror de los cuerpos lanzados al mar en dictadura.](https://www.theclinic.cl/2016/07/24/marta-ugarte-y-el-horror-de-los-cuerpos-lanzados-al-mar-en-dictadura/)
+
+**31:** El Quinto Poder. [Montaje periodístico en la muerte de Marta Ugarte Román.](https://elquintopoder.cl/medios/montaje-periodistico-en-la-muerte-de-marta-ugarte/)
+
+**32:** Núcleo Milenio Disca. [Discapacidad: Detenidos Desaparecidos. Doblemente desaparecidos. Un proyecto de investigación histórica de Núcleo Milenio Disca.](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/)
+
+**33:** Museo de la Memoria y los Derechos Humanos. [Niñas de 4 meses hasta mujeres de 85 años: las ejecutadas políticas de la dictadura chilena](https://mmdh.cl/noticias/actualidad-en-dd-hh/post-noticia-214)
  
 :::
 <br>
