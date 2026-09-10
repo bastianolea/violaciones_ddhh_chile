@@ -91,6 +91,34 @@ h2, h3 {
     font-weight: bold;
 }
 
+/* en celulares, quarto oculta el TOC (nav[role='doc-toc'] { display: none; }
+   bajo los 767.98px) y tambien su contenedor. Solo los volvemos a mostrar,
+   sin estilos extra, para conservar la apariencia original del indice. */
+@media (max-width: 767.98px) {
+  #quarto-content nav[role="doc-toc"] {
+    display: block;
+    position: static;
+    max-height: none;
+  }
+
+  /* al mover el sidebar dentro de <main>, hereda las reglas permanentes
+     de .sidebar.margin-sidebar: grid-column body-end/page-end (lo encajona
+     en el margen derecho ~10px) y grid-row content-top/page-bottom (lo
+     posiciona por lineas de grilla, saltando al tope del contenido e
+     ignorando su lugar en el DOM). Los reseteamos para que fluya en su
+     posicion natural, encima del titulo "Detenciones". */
+  #quarto-margin-sidebar {
+    display: block;
+    grid-column: body-content-start / body-content-end;
+    grid-row: auto;
+    /* en desktop el sidebar es sticky (position: sticky; top: ...) para que
+       siga el scroll; en mobile lo dejamos estatico para que fluya con el
+       contenido y no se mantenga fijo encima de la pagina. */
+    position: static;
+    top: auto;
+  }
+}
+
 .embarazadas {
   padding: 8px;
   font-size: 70% !important;
@@ -298,8 +326,8 @@ li {
 }
 
 .monstruo {
-  margin-top:24px;
-  margin-bottom:-10px;
+  margin-top: 24px;
+  margin-bottom: -10px;
   font-family: 'Barlow Semi Condensed', sans-serif !important;
   text-transform: uppercase !important;
   font-weight: bold;
@@ -311,7 +339,7 @@ li {
 }
 
 .monstruo-imagen {
-  max-height:200px;
+  max-height: 200px;
   float: right;
 }
 
@@ -323,4 +351,9 @@ li {
 .monstruo-texto p {
   line-height: 1;
   margin-bottom: 8px !important;
+}
+
+/* imagen en header */
+.navbar-logo {
+  max-height: 48px;
 }

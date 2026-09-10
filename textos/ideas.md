@@ -15,21 +15,73 @@ fotos entre medio:
 - en censura, milicos quemando libros
 - en responsables, foto de la junta, foto de campaña del sí
 
+TOC: poner headings nivel 3 (los que actualmente con .subtitulo)
+
+
+
 ## Sección de grupos
 
 ### Personas con discapacidad
 https://openbiblio.museodelamemoria.cl/media/digitales/Doblemente%20Desaparecidos%202024.pdf
-https://mmdh.cl/noticias/institucional/memorias-con-cicatrices
 https://mmdh.cl/noticias/institucional/https-mmdh-cl-noticias-institucional-memorias-con-cicatrices
 https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/
 
+
+EL [Núcleo Milenio Disca](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/) ha encontrado registros de 21 personas con discapacidad asesinadas en la dictadura
+
+7 detenidos desaparecidos
+8 personas con discapacidad física, 
+4 personas con discapacidad intelectual, 
+3 personas con discapacidad psíquica
+
+
+Poner historia de: Luis Arturo Navarro Peña
+
+
 ### Personas LGBT+
 la dictadura militar endureció los conceptos de hombría y feminidad (Gabriel Salazar)
+El modelo patriarcal difundido desde la dictadura militar reduce a las personas en dos roles únicos: hombre y mujer, y a una sexualidad única: la heterosexualidad.
+
 https://www.mums.cl/2018/11/la-represion-que-no-importo-las-historias-lgbtiq-en-dictadura-que-chile-jamas-reparo/
 https://ciudadano.indh.cl/violencia-y-discriminacion-comunidad-lgbtiqa/
 https://agenciapresentes.org/2023/09/18/las-locas-del-73-un-documental-sobre-la-persecucion-del-estado-chileno-a-las-personas-lgbt/
 https://es.wikipedia.org/wiki/Diversidad_sexual_durante_la_dictadura_militar_chilena
 https://mmdh.cl/noticias/institucional/memorias-con-cicatrices
+
+> Comisión Nacional de la Verdad y Reconciliación dando a conocer el Informe Rettig.  Sin embargo, este no tomó en cuenta a las minorías sexuales que fueron reprimidas, torturadas y, en algunos casos, asesinadas.
+
+Detención por artículo 373
+
+Mario Melo Pradenas: En 1971 Melo había sido expulsado del MIR y el GAP, luego que se revelara su homosexualidad mientras se encontraba en Cuba.
+
+Cuesta Acha: Se trata del de un homosexual que fue descubierto teniendo relaciones con un soldado en 1975 en los polvorines del morro de Arica por lo cual se dio la orden de ejecutarlo. http://www.economiaynegocios.cl/noticias/noticias.asp?id=332568
+
+Mónica Briones. El crimen es considerado el primer caso documentado de un crimen lesbofóbico en Chile.  1984
+
+primera protesta de la diversidad sexual que tuvo lugar el 22 de abril de 1973 en Santiago de Chile.
+
+En los días siguientes al golpe de Estado también se registraron cientos de casos donde travestis fueron golpeados y asesinados en lugares de encuentro habitual, 
+
+Marcela Dimonti, una de las participantes en la primera protesta de la diversidad sexual en Chile (ocurrida el 22 de abril de 1973) y que en aquel momento tenía 15 años, señala que fue detenida el mismo día del golpe de Estado y llevada al regimiento Tacna, en donde fue golpeada y posteriormente trasladada al Estadio Nacional,
+
+en enero de 1974 el Frente de Liberación Homosexual de Argentina denunció en su revista Somos el asesinato en Santiago de «La Lola Puñales», homosexual uruguayo de 32 años que fue violado, torturado, castrado y acribillado por un grupo de militares.[11]
+
+
+#### Amenazas
+Wiki:
+Los organismos represivos como la Dirección de Inteligencia Nacional (DINA, f. 1974) y la Central Nacional de Informaciones (CNI, f. 1977) investigaron en muchas ocasiones a personas homosexuales o que podían serlo. Un caso paradigmático es el acápite especial sobre «homosexualismo» en la investigación realizada a Jaime Guzmán, uno de los principales ideólogos del pinochetismo y de la constitución de 1980 y fundador del partido conservador Unión Demócrata Independiente. El informe secreto, emitido el 17 de noviembre de 1976, intentaba vigilar a uno de los principales adversarios del director de la DINA —Manuel Contreras— dentro del gobierno, establecía un perfil del abogado y en él se especificaba la cercanía de Guzmán con personas reconocidas por su homosexualidad, y aunque no mencionaba literalmente que éste lo fuera, muestra el nivel de intolerancia que existía en las altas esferas del gobierno hacia diversas orientaciones sexuales.[16] 
+
+Una situación similar vivió en 1984 Pedro Felipe Ramírez, quien tuvo que dejar la secretaría general del Partido Izquierda Cristiana de Chile (IC) luego de que la CNI amenazara con divulgar supuestas fotografías que revelarían su homosexualidad.[17]
+
+
+#### Episodio homosexual
+
+«Episodio homosexual» es el nombre que recibe la investigación judicial sobre un homicidio ocurrido en la comuna chilena de Arica en 1975, en el cual un grupo de conscriptos dio muerte a un hombre homosexual, siendo el primer caso conocido de violación de los derechos humanos durante la dictadura militar chilena en razón de la orientación sexual de la víctima.[1][2]
+
+Fluxá:
+A las 22:30 de su tercer día de reclusión, el detenido fue llevado junto a 7 militares en un vehículo gris hasta la cuesta Acha, contigua a la quebrada homónima en la salida sur de Arica, y llevado a un lugar donde se realizaban prácticas de tiro. Siendo puesto frente a dos excavaciones de 15 y 20 metros de profundidad, se le colocó una venda de esponja en la cabeza y el grupo de militares le disparó en la cabeza con pistolas Smith and Wesson 38, siendo posteriormente lanzado dentro de uno de los agujeros excavados.[1]
+
+Según la declaración de Bernabé Vega —uno de los homicidas— a la jueza María Verónica Quiroz en marzo de 2010, este fue informado por el capitán Ricardo Padilla de que «el destacamento que estaba en el Morro de Arica estaba teniendo problemas con un homosexual civil que estaba pervirtiendo a los soldados conscriptos» y le habría señalado que «era un peligro para los soldados y no merecía vivir».[1]
 
 ### Menores de edad
 

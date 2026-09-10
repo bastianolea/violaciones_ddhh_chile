@@ -20,7 +20,8 @@ website:
     foreground: "#E7E7E7"
     search: false
     pinned: false
-    collapse: false
+    collapse: true
+    logo: donde_estan.jpg
     tools-collapse: false
     left:
       - text: "Fuentes"

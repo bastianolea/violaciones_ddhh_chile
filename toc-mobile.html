@@ -1,0 +1,30 @@
+<script>
+// En moviles, mueve el indice (TOC) para que aparezca justo encima
+// del titulo "Detenciones"; en pantallas grandes lo deja en su
+// columna lateral original.
+// Movemos el contenedor #quarto-margin-sidebar completo (no solo el nav)
+// para conservar la clase .sidebar, de la que dependen los estilos del TOC.
+document.addEventListener("DOMContentLoaded", function () {
+  const sidebar = document.querySelector("#quarto-margin-sidebar");
+  const target = document.querySelector("section#detenciones");
+  if (!sidebar || !target) return;
+
+  // recordamos la posicion original para poder restaurarla en escritorio
+  const originalParent = sidebar.parentNode;
+  const originalNext = sidebar.nextSibling;
+  const mq = window.matchMedia("(max-width: 767.98px)");
+
+  function place(e) {
+    if (e.matches) {
+      // vista movil: insertar el indice antes de la seccion "Detenciones"
+      target.parentNode.insertBefore(sidebar, target);
+    } else {
+      // vista escritorio: devolver el indice a su posicion original
+      originalParent.insertBefore(sidebar, originalNext);
+    }
+  }
+
+  place(mq);
+  mq.addEventListener("change", place);
+});
+</script>

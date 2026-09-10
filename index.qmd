@@ -1,12 +1,12 @@
 ---
 format: 
   html:
-    
     toc: true
     toc-title: Índice
     toc-location: right
     anchor-sections: false
     theme: custom.scss
+    include-after-body: toc-mobile.html
     grid:
       body-width: 500px
 fontfamily: Barlow
@@ -84,16 +84,13 @@ Al entrar a la comisaría, casi al anochecer, escuché unos gritos desgarradores
 
 A través de las detenciones se nutrían las organizaciones de inteligencia, se reprimía la oposición, y se esparcía el terror, generando así condiciones para la consolidación política del régimen.
 
-::: {.subtitulo style="margin-top:30px;margin-bottom: -20px;"}
+::: {.subtitulo style="margin-top:30px;margin-bottom: -10px;"}
 Detenciones por período[1]{.nota}
 :::
 
 ![](img/violaciones_ddhh_chile_6.png)
 
 La cantidad y frecuencia de las detenciones fue mayor durante los primeros años de la dictadura, cuando el régimen se encontraba en su fase más violenta y represiva. Sin embargo, estas se mantuvieron a lo largo de todo el período, dado que la suspensión del Estado de derecho implicaba la posibilidad de detener a cualquier persona bajo cualquier pretexto. 
-
-
-
 
 
 ::::: {.caja style="margin-top:34px;"}
