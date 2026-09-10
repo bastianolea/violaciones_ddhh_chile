@@ -40,11 +40,11 @@ website:
       #   href: https://bastianolea.rbind.io/contact/
     right:
       - icon: person-fill
-        href: https://bastianolea.rbind.io
+        href: https://www.bastimapache.cl
       - icon: twitter
         href: https://x.com/bastimapache
       - icon: envelope-fill
-        href: https://bastianolea.rbind.io/contact/
+        href: https://bastianolea.rbind.io/contacto/
 
 format:
   html:
