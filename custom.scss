@@ -116,6 +116,22 @@ h3, .h3, .subtitulo {
        contenido y no se mantenga fijo encima de la pagina. */
     position: static;
     top: auto;
+    /* en desktop el sidebar tiene max-height + overflow-y:auto para scrollear
+       dentro del margen sticky; en mobile eso le agregaba una barra de scroll
+       interna. lo dejamos fluir a su altura natural. */
+    max-height: none;
+    overflow: visible;
+  }
+
+  /* en movil mostramos solo los H2: ocultamos las sublistas (H3) del indice.
+     el TOC de quarto es colapsable y despliega/colapsa los H3 de la seccion
+     activa a medida que se hace scroll; como aca el indice esta insertado
+     de forma estatica encima del contenido, cada despliegue cambiaba su
+     altura y hacia saltar la pagina. al fijar los H3 en display:none la
+     altura del indice queda constante. (solo afecta a mobile; el TOC de
+     desktop conserva su comportamiento colapsable.) */
+  #quarto-margin-sidebar nav[role="doc-toc"] ul ul {
+    display: none !important;
   }
 }
 

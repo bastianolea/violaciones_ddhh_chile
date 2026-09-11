@@ -69,6 +69,11 @@ breakpoint Quarto uses so the two agree on what "mobile" means.
     grid-row: auto;
     position: static;
     top: auto;
+    // On desktop the container is `max-height: calc(...); overflow-y: auto` so
+    // it can scroll within the sticky margin. On mobile that leaves an internal
+    // scrollbar on the TOC, so let it flow at its natural height instead.
+    max-height: none;
+    overflow: visible;
   }
 }
 ```
@@ -82,6 +87,34 @@ Key points:
 - `position: static; top: auto;` is what stops the TOC from sticking to the top
   of the viewport as you scroll on mobile. Without this, it inherits the
   desktop `position: sticky` and floats over the content.
+- `max-height: none; overflow: visible;` removes the desktop scroll container so
+  the TOC doesn't show its own inner scrollbar on mobile.
+
+### Keeping the mobile TOC from jumping (show only H2s)
+
+Quarto's TOC is **collapsible**: as you scroll, its JavaScript marks the current
+section as active and expands that section's nested `H3` entries (collapsing the
+previous one's). On desktop this is fine — the TOC is sticky in the margin. But
+on mobile, where we've dropped the TOC inline and made it `static`, every
+expand/collapse changes the TOC's height and shoves the content below it down.
+The result is the page visibly jumping each time you scroll into a new section —
+and the user isn't even looking at the TOC while they scroll.
+
+The simplest fix is to show **only the top-level `H2` entries on mobile** by
+hiding the nested lists. With the `H3` sublists gone, the TOC height is constant
+and nothing shifts as you scroll. Because this lives inside the same mobile
+media query, the desktop TOC keeps its collapsible `H3` behaviour untouched.
+
+```scss
+@media (max-width: 767.98px) {
+  // Show only H2s in the mobile TOC: hiding the nested (H3) sublists keeps the
+  // TOC height fixed, so the collapsible expand/collapse no longer makes the
+  // page jump while scrolling. Desktop keeps its collapsible behaviour.
+  #quarto-margin-sidebar nav[role="doc-toc"] ul ul {
+    display: none !important;
+  }
+}
+```
 
 ## Part 2 — JavaScript to reposition the TOC
 
@@ -151,8 +184,9 @@ Put the `<script>` block in a standalone file (e.g. `toc-mobile.html`) so
 
 - **Desktop (≥768px):** unchanged — the TOC stays sticky in the right margin.
 - **Mobile (<768px):** the TOC appears inline just above the chosen section,
-  keeps its original styling (it still lives inside `.sidebar`), and scrolls
-  away with the content instead of sticking to the top.
+  keeps its original styling (it still lives inside `.sidebar`), scrolls away
+  with the content instead of sticking to the top, and shows only the `H2`
+  entries so its height stays fixed and the page no longer jumps on scroll.
 
 ## Notes / caveats
 
@@ -162,3 +196,7 @@ Put the `<script>` block in a standalone file (e.g. `toc-mobile.html`) so
   sense for yours; if the element doesn't exist the script exits harmlessly.
 - Selectors like `#quarto-margin-sidebar` are Quarto internals and could change
   in future releases — worth a quick check after upgrading.
+- Hiding `ul ul` drops **all** nesting levels (`H3` and deeper) from the mobile
+  TOC. If you have `H4`s you also want gone this already covers them; if you
+  wanted to keep `H3` but only stop the jumping, you'd instead cap the TOC
+  height (e.g. `max-height` + `overflow-y: auto`) rather than hide the sublists.
