@@ -251,18 +251,18 @@ Dirigentes sindicales o agrarios, militantes políticos, activistas o manifestan
 
 
 
-:::: {style="margin-top: 0px; margin-bottom: 34px; text-align: right;"}
+:::: {style="margin-top: 0px; margin-bottom: 34px; text-align: right; word-break: none; hyphens: none;"}
 
 :::{style="margin-bottom: 0px;"}
 En promedio se **asesinó** o **desapareció** un promedio de [195 personas al año]{.blanco}.[28]{.nota}
 :::
 
 :::{style="margin-top: 0px;"}
-Se asesinaron a [16 personas al mes]{.blanco} en promedio durante la dictadura.[28]{.nota} Entre septiembre y octubre de 1973, este promedio fue de [33 muertos diarios]{.blanco}.[28]{.nota}
+Se asesinaron a [16 personas al mes]{.blanco} en promedio durante toda la dictadura.[28]{.nota} Entre septiembre y octubre de 1973, este promedio fue de [33 muertos diarios]{.blanco}.[28]{.nota}
 :::
 
 :::{style="margin-top: 0px;"}
-El día del golpe de Estado, 11 de septiembre, el número de **asesinatos** y **desapariciones** llegó hasta un máximo de [78 personas]{.blanco}.[28]{.nota}
+El día del golpe de Estado, el número de **asesinatos** y **desapariciones** llegó a un máximo de [78 personas en un día]{.blanco}.[28]{.nota}
 :::
 ::::
 
@@ -434,13 +434,15 @@ Esta práctica de **eliminación selectiva** también se constituyó en un méto
 
 ### Mujeres detenidas desaparecidas
 
-Se contabilizan más de **60 mujeres** detenidas desaparecidas por la dictadura cívico-militar.
+Se contabilizan más de [60 mujeres detenidas desaparecidas]{.blanco} por la dictadura cívico-militar.
 
 ![](img/mujeres_dddd.jpeg)
 
 ### Detenidas desaparecidas embarazadas
 
-10 mujeres fueron desaparecidas por la dictadura encontrándose **embarazadas**[14]{.nota}. No se sabe si llegaron a dar a luz, o si sus hijos fueron entregados en **adopción ilegal**. El silencio de los victimarios y sus cómplices ha mantenido en la oscuridad el capítulo más cruel de la política de exterminio ejecutada en Chile.[14]{.nota}
+[10 mujeres embarazadas]{.blanco} fueron desaparecidas por la dictadura[14]{.nota}. No se sabe si llegaron a dar a luz, o si sus hijos fueron entregados en **adopción ilegal**. 
+
+El silencio de los victimarios y sus cómplices ha mantenido en la oscuridad el capítulo más cruel de la política de exterminio ejecutada en Chile.[14]{.nota}
 
 :::: {.columns}
 
@@ -637,22 +639,26 @@ Doblemente desaparecidos[32]{.nota}
 Detenidos desaparecidos en condición de discapacidad
 :::
 
-::: {.centrar style="max-width: 280px;"}
+Investigadoras/es del [Núcleo Milenio Disca](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/) han encontrado registros de 21 personas con discapacidad asesinadas en la dictadura.
+
+::: {.centrar style="max-width: 280px; margin-top: -4px; margin-bottom: -20px;"}
 ![](img/disca/victimas_discapacidad_bn.png){fig-alt="3 menores de edad; 21 personas encontradas hasta ahora; 32 años edad promedio (15-78); 20 hombres; 1 mujer; 14 fueron ejecutados políticos; 7 fueron detenidos desaparecidos; 15 no tenían militancia política"}
 :::
 
-Investigadoras/es del [Núcleo Milenio Disca](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/) han encontrado registros de 21 personas con discapacidad asesinadas en la dictadura.
+:::{.pie-foto}
+Fuente: [Núcleo Milenio Disca](https://nucleodisca.cl/publicaciones/discapacidad-y-dictadura/)
+:::
 
 De estas 21 víctimas: 
 
 ::::{style="margin-left:40px; margin-right:40px; margin-top: -8px; margin-bottom: 28px;"}
-[7]{.cifra style="margin-right: 4px;"} fueron **detenidos desaparecidos**
+[7]{.cifra style="margin-right: 2px;"} fueron **detenidos desaparecidos**
 
-[8]{.cifra style="margin-right: 4px;"} fueron personas con discapacidad **física**
+[8]{.cifra style="margin-right: 2px;"} fueron personas con discapacidad **física**
 
-[4]{.cifra style="margin-right: 4px;"} fueron personas con discapacidad **intelectual**
+[4]{.cifra style="margin-right: 2px;"} fueron personas con discapacidad **intelectual**
 
-[3]{.cifra style="margin-right: 4px;"} fueron personas con discapacidad **psíquica**
+[3]{.cifra style="margin-right: 2px;"} fueron personas con discapacidad **psíquica**
 ::::
 
 ::: {.caja}
@@ -817,7 +823,7 @@ Coincidentemente, en 1976 la dictadura decide aplicar el [IVA al libro.]{.blanco
 
 ### Operación silencio[20]{.nota}
 
-::: {style="max-width: 300px; float: left;margin-bottom:-20px;"}
+::: {style="max-width: 240px; float: left; margin-bottom: -12px;"}
 ![](img/censura/bombardeo.jpg)
 :::
 
@@ -972,6 +978,9 @@ Línea de tiempo de la toma del poder
 Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder. Estos hechos facultaron la creación de un estado militar y policial con capacidad de modificar a diestra y siniestra las leyes, la Constitución, y la economía, imponiendo un modelo económico y social que ha perdurado hasta hoy.
 
 ::: {.sangria-francesa}
+
+[Previo a 1973]{.titulo-fecha}
+
 [4 de septiembre de 1970:]{.fecha} elección de Salvador Allende como presidente de Chile.
 
 [22 de octubre de 1970:]{.fecha} asesinato del general René Schneider, por parte de Patria y Libertad con respaldo de la CIA, para evitar que Allende asumiera[16]{.nota}.
@@ -984,11 +993,25 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 
 [11 de septiembre de 1973:]{.fecha} se decreta **toque de queda** en todo el territorio nacional. El toque de queda duró 14 años.
 
+[11 de septiembre de 1973:]{.fecha} se bombardean 5 estaciones de radio en la Región Metropolitana de Santiago como parte de la [operación Silencio](#operación-silencio20). Fueron destruidas Radio Corporación, Radio Recabarren, Radio pacífico, Radio Portales y Sargento Candelaria.
+
+[18 de septiembre de 1973:]{.fecha} masacre de Laja, 19 muertos a manos de Carabineros de Chile en Laja y San Rosendo.
+
 [24 de septiembre de 1973:]{.fecha} se **disuelve el Congreso Nacional** y se termina el ejercicio de todos los parlamentarios.
+
+[24 de septiembre de 1973:]{.fecha} masacre de Paine, 38 muertos por el Ejercito y Carabineros.
 
 [30 de septiembre:]{.fecha} la **caravana de la muerte** inicia su recorrido en helicóptero, realizando una masacre sistemática de opositores políticos, o formando a otros militares para su realización.
 
+[6 de octubre de 1973:]{.fecha} masacre del cerro Chena, 18 muertos por el Ejército de Chile en San Bernardo.
+
+[9 de octubre de 1973:]{.fecha} masacre de Chihuío, 17 personas muertas por el Ejército de Chile en Futrono.
+
+[11 de octubre de 1973:]{.fecha} masacre de Liquiñe, 15 muertos por el ejército de Chile en Liquiñe y Panguipulli.
+
 [13 de octubre de 1973:]{.fecha} se **prohíben los partidos políticos de izquierda**, considerados “asociaciones ilícitas”.
+
+[22 de octubre de 1973:]{.fecha} la [Caravana de la Muerte](#caravana-de-la-muerte) termina su macabro recorrido por el país, dejando un saldo de 97 muertos.
 
 [12 de noviembre de 1973:]{.fecha} se entrega a la Junta militar el ejercicio del _poder legislativo_ mediante **decretos con fuerza de ley**, mientras que el _poder ejecutivo_ se ejerce a través de **decretos supremos** y **resoluciones**.
 
@@ -1006,8 +1029,12 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 
 [Año 1974:]{.fecha} **privatización de empresas públicas**, como Endesa (electricidad), Iansa (azúcar), Entel (telecomunicaciones), Lan Chile (línea aérea), Laboratorios Chile, Soquimich, entre más de 300 otras. Gran parte de las empresas fueron **vendidas a un precio inferior** al correspondiente[17]{.nota}.
 
+[Año 1975:]{.fecha} se publica _El Ladrillo_, texto de política económica que establece el liberalismo económico que sería usado como doctrina ideológica por la dictadura.
+
 <!-- [Después de 1974]{.titulo-fecha} -->
 [1976:]{.fecha} Implementación del IVA al libro en medio de políticas de clausura de medios de comunicación y censura masiva.
+
+[9 de agosto de 1976:]{.fecha} [Marta Ugarte](#vino-del-mar) es secuestrada, torturada, asesinada y lanzada de un helicóptero amarrada a un riel, junto a otras víctimas del régimen. La aparición de su cuerpo es una de las primeras evidencias públicas de la violencia dictatorial.
 
 [13 de agosto de 1977:]{.fecha} La DINA es reemplazada por la **Central Nacional de Informaciones** (CNI), órgano de persecución, secuestro, tortura, asesinato y desaparición de opositores políticos.
 
@@ -1024,6 +1051,14 @@ Hechos principales mediante los cuales la Dictadura se adueñó de todo el poder
 [Marzo de 1981:]{.fecha} se crea la ley para que los trabajadores depositen sus cotizaciones en **proveedores de salud privados**, creando las Isapre[18]{.nota}.
 
 [31 de diciembre de 1982:]{.fecha} el sistema de **AFP** se vuelve el modelo obligatorio de pensiones para los trabajadores nuevos.
+
+[9 de noviembre de 1983:]{.fecha} agentes armados de la CNI secuestran a los hijos de [Sebastián Acevedo](#inmolado-por-sus-hijos), quien posteriormente se quita la vida por inmolación. 
+
+[30 de marzo de 1985:]{.fecha} acontece el [caso Degollados](#caso-degollados), el brutal secuestro y asesinato de tres militantes del PC, José Manuel Parada, Manuel Guerrero Ceballos y Santiago Nattino.
+
+[2 de julio de 1986:]{.fecha} [caso Quemados](#caso-quemados), donde militares queman vivos a dos jóvenes, Carmen Gloria Quintana y Rodrigo Rojas de Negri, este último perdiendo la vida.
+
+[16 de junio de 1987:]{.fecha} [operación Albania](#operación-albania), 12 militantes del Frente Patriótico Manuel Rodríguez son asesinados por la CNI.
 :::
 
 <br>

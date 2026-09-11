@@ -181,3 +181,15 @@ Mapa?
 
 
 
+
+
+
+18 de septiembre de 1973: masacre de Laja, 19 muertos a manos de Carabineros de Chile en Laja y San Rosendo
+
+24 de septiembre de 1973: masacre de Paine, 38 muertos por el Ejercito y Carabineros.
+
+6 de octubre de 1973: masacre del cerro Chena, 18 muertos por el Ejército de Chile en San Bernardo.
+
+9 de octubre de 1973: masacre de Chihuío, 17 personas muertas por el Ejército de Chile en Futrono
+
+11 de octubre de 1973: masacre de Liquiñe, 15 muertos por el ejército de Chile en Liquiñe y Panguipulli
