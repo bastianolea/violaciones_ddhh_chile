@@ -40,7 +40,7 @@ Mónica Briones. El crimen es considerado el primer caso documentado de un crime
 
 primera protesta de la diversidad sexual que tuvo lugar el 22 de abril de 1973 en Santiago de Chile.
 
-En los días siguientes al golpe de Estado también se registraron cientos de casos donde travestis fueron golpeados y asesinados en lugares de encuentro habitual, 
+En los días siguientes al golpe de Estado también se registraron cientos de casos donde travestis fueron golpeados y asesinados en lugares de encuentro habitual,
 
 Marcela Dimonti, una de las participantes en la primera protesta de la diversidad sexual en Chile (ocurrida el 22 de abril de 1973) y que en aquel momento tenía 15 años, señala que fue detenida el mismo día del golpe de Estado y llevada al regimiento Tacna, en donde fue golpeada y posteriormente trasladada al Estadio Nacional,
 
@@ -53,7 +53,7 @@ Valech: Dicha situación afectó especialmente en las víctimas, las cuales se i
 
 #### Amenazas
 Wiki:
-Los organismos represivos como la Dirección de Inteligencia Nacional (DINA, f. 1974) y la Central Nacional de Informaciones (CNI, f. 1977) investigaron en muchas ocasiones a personas homosexuales o que podían serlo. Un caso paradigmático es el acápite especial sobre «homosexualismo» en la investigación realizada a Jaime Guzmán, uno de los principales ideólogos del pinochetismo y de la constitución de 1980 y fundador del partido conservador Unión Demócrata Independiente. El informe secreto, emitido el 17 de noviembre de 1976, intentaba vigilar a uno de los principales adversarios del director de la DINA —Manuel Contreras— dentro del gobierno, establecía un perfil del abogado y en él se especificaba la cercanía de Guzmán con personas reconocidas por su homosexualidad, y aunque no mencionaba literalmente que éste lo fuera, muestra el nivel de intolerancia que existía en las altas esferas del gobierno hacia diversas orientaciones sexuales.[16] 
+Los organismos represivos como la Dirección de Inteligencia Nacional (DINA, f. 1974) y la Central Nacional de Informaciones (CNI, f. 1977) investigaron en muchas ocasiones a personas homosexuales o que podían serlo. Un caso paradigmático es el acápite especial sobre «homosexualismo» en la investigación realizada a Jaime Guzmán, uno de los principales ideólogos del pinochetismo y de la constitución de 1980 y fundador del partido conservador Unión Demócrata Independiente. El informe secreto, emitido el 17 de noviembre de 1976, intentaba vigilar a uno de los principales adversarios del director de la DINA —Manuel Contreras— dentro del gobierno, establecía un perfil del abogado y en él se especificaba la cercanía de Guzmán con personas reconocidas por su homosexualidad, y aunque no mencionaba literalmente que éste lo fuera, muestra el nivel de intolerancia que existía en las altas esferas del gobierno hacia diversas orientaciones sexuales.[16]
 
 Una situación similar vivió en 1984 Pedro Felipe Ramírez, quien tuvo que dejar la secretaría general del Partido Izquierda Cristiana de Chile (IC) luego de que la CNI amenazara con divulgar supuestas fotografías que revelarían su homosexualidad.[17]
 
@@ -79,7 +79,7 @@ En "Mujeres detenidas desaparecidas” falta muchísimo
 
 https://redaccion.cl/ausencias-historia-mujeres-desaparicion-forzada/
 > Ninguna de las Comisiones de Verdad constituidas en Chile —ni la Rettig, ni la Valech I, ni la Valech II— incorporó un enfoque de género en su diseño ni en su funcionamiento. La ausencia no se limita a un detalle metodológico: atraviesa la recopilación de testimonios, el análisis de la información y la producción de resultados. Se trata de una omisión estructural que determinó qué ciertas violencias fueron vistas, nombradas y validadas mientras que otras debieron esperar décadas para ser reconocidas.
-> desnudez forzada, tocaciones y manoseos de carácter sexual, violaciones individuales y grupales, agresiones con objetos y animales, la introducción de ratas en la vagina, sexo oral forzado incluso con animales, embarazos producto de violaciones y abortos provocados por la propia tortura. 
+> desnudez forzada, tocaciones y manoseos de carácter sexual, violaciones individuales y grupales, agresiones con objetos y animales, la introducción de ratas en la vagina, sexo oral forzado incluso con animales, embarazos producto de violaciones y abortos provocados por la propia tortura.
 
 #### Camarín de mujeres
 https://www.memoriaestadionacional.cl/camarin-norte/
@@ -102,77 +102,65 @@ Para línea de tiempo (de resistencia?):
 ----
 
 
-## Sitios de memoria	
+## Sitios de memoria
+
+existieron más de mil centros de detención y tortura,
 
 Foto al lado derecho, texto al lado izquierdo, botón con enlace a sitios web
 
 ### Estadio Nacional
-https://www.memoriaestadionacional.cl
-Septiembre a noviembre de 1973
-Campo de concentración 
-40.000 personas, al menos 40 ejecuciones
-Torturas, secuestros, simulación de fusilamientos
-Despolitizar a la ciudadania
-difusión del miedo mediante la masiva e indiscriminada persecución
+Campo de concentración principal del régimen, que operó entre septiembre y noviembre de 1973. En sus dependencias fueron detenidas más de 40.000 personas, y ocurrieron al menos 40 ejecuciones. Dentro se realizaron torturas, secuestros, simulación de fusilamientos, y uno de sus efectos fue difundir el miedo mediante la masiva e indiscriminada persecución.
 
-Camarín de mujeres
+En las graderías y detrás de los arcos del estadio estaban los detenidos de menor relevancia política, mientras que en los camarines, salones y baños estaban los dirigentes, políticos, extranjeros o personas denunciadas por sus propios compatriotas. Los presos pasaban algunas semanas en detención, mientras que otros eran derivados a otros centros de detención y torturas.
 
-### Estadio Chile (Estadio Víctor Jara)
-https://estadiovictorjara.cl
-Registro de presos
-Primeros detenidos desde la Univerisidad Técnica del Estado
-16 de septiembre fue torturado y asesinado Víctor Jara
-Aproximadamente 200 prisioneros
-Incomunicación, régimen disciplinario, luces encendidas y sistema de alimentación en horarios irregulares
-Los testimonios indican que quienes estuvieron allí sufrieron golpes, amenazas, simulacros de ejecución, colgamientos, quemaduras con cigarrillos, aplicación de electricidad y la violencia de presenciar ejecuciones en el estadio. Las mujeres señalaron haber sufrido vejaciones sexuales y violación.
+Solo funcionó por 2 meses, dado que estaba previsto un partido eliminatorio del mundial de fútbol entre Chile y la Unión Soviética. Chile logró un empate en Moscú, pero cuando fue el momento del partido en Chile, el equipo soviético se negó a jugar en lo que fue un campo de concentración, concediéndole la victoria al equipo local.
+
+[Más información sobre el sitio de memoria](https://www.memoriaestadionacional.cl)
+
+### Estadio Chile
+Ahora es conocido como Estadio Víctor Jara, por ser el sitio donde se torturó y asesinó a **Víctor Jara** un 16 de septiembre. Por este centro de detención pasaron aproximadamente 200 prisioneros, gran cantidad de ellos desde la Univerisidad Técnica del Estado. Se caracterizó por su incomunicación, régimen disciplinario, luces encendidas permanentemente y alimentación irregular. Dentro se propinó violencia física, simulacros de ejecución, colgamientos, aplicación de electricidad, vejaciones sexuales y violaciones, y la exposición pública de ejecuciones.
+
+[Más información sobre el sitio de memoria](https://estadiovictorjara.cl)
 
 ### 3 y 4 Álamos
-1974-1978 bajo la DINA
-https://3y4alamos.com
-Centro de detención y campo de concentración 
-Incomunicación, entraban y salían con la vista vendada
-Más de 6.000 prisioneros
-3 Álamos fue el campos de concentración donde pasó mayor cantidad de prisioneros, administrado por Carabineros
-Prisión en tránsito a otros centros, no se torturaba
-4 Álamos era un recinto secreto, administrado por la DINA
-pabellón de incomunicación, 500 presos políticos, muchos hechos desaparecer
-transitorio
+Centro de detención y campo de concentración que operó entre 1974 y 1978 bajo la DINA. Caracterizado por un régimen de incomunicación, donde los prisioneros entraban y salían con la vista vendada. Por el centro pasaron más de 6.000 personas. _3 Álamos_ fue el campos de concentración donde pasó mayor cantidad de prisioneros, administrado por Carabineros, y funcionaba como una prisión de tránsito hacia otros centros, donde no se torturaba. Por otro lado, _4 Álamos_ era un recinto secreto administrado por la DINA, que operaba como pabellón de incomunicación, con 500 presos políticos, muchos de ellos hechos desaparecer.
+[Más información sobre el sitio de memoria](https://3y4alamos.com)
 
 ### Londres 38
-https://londres38.cl/
-DINA
-1973-1974
-Detención y tortura
-Antigua sede del Partido Socialista
-> Al tratarse de la primera época de la represión, los sistemas de torturas, desaparición y exterminio utilizados en este lugar fueron muy brutales
-primer eslabón de una cadena de recintos de reclusión utilizados por la DINA 
-> interrogatorios inmediatos y sin límites en la tortura que se aplicaba, permanente trato vejatorio
-
-1.100 personas
-más de 90 ejecutados
-
->  permanecían vendados, generalmente amarrados a una silla, eran desnudados y no recibían alimentación y sólo excepcionalmente se les daba de beber.
+Centro de detención y tortura operado por la DINA entre 1973 y 1974, antigua sede del Partido Socialista de Chile. Era considerado el primer eslabón de una cadena de recintos de reclusión utilizados por la DINA. Por él pasaron aproximadamente 1.100 personas, más de 90 de ellas fueron ejecutados políticos. Sus métodos de represión, tortura y extermino usados fueron brutales, caracterizados por interrogatorios inmediatos de permanente trato vejatorio y aplicación de torturas extremas. Se les vendaba y amarraba a una silla, eran desnudados, y no se les daba alimentación.recibían alimentación y sólo excepcionalmente se les daba de beber.
+[Más información sobre el sitio de memoria](https://londres38.cl/)
 
 > “sufrieron brutales torturas en este recinto, permanecían vendados, generalmente amarrados a una silla, eran desnudados y no recibían alimentación y sólo excepcionalmente se les daba de beber. Denunciaron que fueron sometidos a interrogatorios durante todo el tiempo de su permanencia. Durante los interrogatorios los prisioneros fueron torturados con golpes, en ocasiones hasta causarles fracturas; pau de arara, el submarino seco y el mojado, con aplicación de electricidad en la parrilla, colgamiento, quemaduras con cigarrillos, el teléfono; fueron sometidos a la ruleta rusa; se les administraban drogas; estaban expuestos a ruidos molestos durante la noche para impedirles dormir, especialmente música a todo volumen. Eran obligados a escuchar y presenciar torturas a otros detenidos; fueron objeto de vejaciones y violaciones sexuales, de simulacros de fusilamiento, de amenazas y manipulación psicológica”.[3] “Informe de la Comisión Nacional de Comisión Prisión Política y Tortura”. Santiago. Ministerio de Interior. 2005. p. 442.
 
-
 ### Villa Grimaldi
+Cuartel central de la Brigada de Inteligencia Metropolitana (BIM), luego ocupado por la DINA y dirigido por **Manuel Contreras**. Se estima que 5.000 personas pasaron por el centro de detención Villa Grimaldi, de las cuales 18 fueron ejecutados políticos y 211 permanecen hasta hoy como detenidos desaparecidos.
+
+[Más información sobre el sitio de memoria](https://villagrimaldi.cl)
+
+### Venda Sexy
+Centro de detención y tortura operado por la dina DINA entre 1974 y 1975, en forma paralela a Villa Grimaldi. Se caracterizó porque los prisioneros que eran detenidos en este recinto serían después asesinados o hechos desaparecer, por lo que los métodos de represión aplicados fueron extremos. Se le llamó _Venda Sexy_ por el uso de vendas para cegar a las personas detenidas, mientras eran sometidos a vejaciones y torturas sexuales de manera constante, usando también un perro pastor alemán adiestrado por la Mayor de Carabineros, **lngrid Olderóck**. Sólo se torturaba durante horario de oficina.
+
+[Más información sobre el sitio de memoria](https://iran3037.cl)
+
+### Rocas de Santo Domingo
+Recinto que originalmente fue un Balneario Popular durante el gobierno de la Unidad Popular. Entre 1973 y 1976 fue usado como centro de detención clandestino y de entrenamiento para agentes de la DINA, en tanto anexo al centro de detención clandestino del Regimiento Tejas Verdes. A partir de 1977 pasa a ser usado como lugar de veraneo para los agentes de la DINA.
+
+[Más información sobre el sitio de memoria](https://www.memoriarocas.cl)
+
+
+
+
 
 ### José Domingo Cañas
 
 ### Hornos de Lonquén
 
-### Venda Sexy
-
-### Rocas de Santo Domingo 
-https://www.memoriarocas.cl
-
 ### Colonia Dignidad
 
-### Isla Dawson 
+### Isla Dawson
 
 
-Mapa?
+----
 
 
 ## Grupos terroristas
@@ -180,16 +168,3 @@ Mapa?
 ### Patria y Libertad
 
 
-
-
-
-
-18 de septiembre de 1973: masacre de Laja, 19 muertos a manos de Carabineros de Chile en Laja y San Rosendo
-
-24 de septiembre de 1973: masacre de Paine, 38 muertos por el Ejercito y Carabineros.
-
-6 de octubre de 1973: masacre del cerro Chena, 18 muertos por el Ejército de Chile en San Bernardo.
-
-9 de octubre de 1973: masacre de Chihuío, 17 personas muertas por el Ejército de Chile en Futrono
-
-11 de octubre de 1973: masacre de Liquiñe, 15 muertos por el ejército de Chile en Liquiñe y Panguipulli

@@ -10,6 +10,9 @@ Infografía que recopila visualizaciones de datos acerca de los crímenes de les
 
 ### Actualizaciones
 
+- 11/09/2026: apartado sobre centros de detención y tortura
+- 10/09/2026: nuevas secciones sobre mujeres, discapacidad, y mejoras de accesibilidad
+- 09/09/2026: nuevas fechas en sección de línea de tiempo, incluyendo principales masacres
 - 10/09/2025: fichas de principales violadores de derechos humanos: Krasnoff, Contreras, Corvalán, Romo y Moren.
 - 10/09/2025: apartados con caso de los 119, caso de Michel Nash, y caso degollados
 - 09/09/2025: apartado sobre censura

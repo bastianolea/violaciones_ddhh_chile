@@ -280,7 +280,7 @@ Los datos de este mapa fueron recopilados por ArchivosChile desde el Servicio M�
 
 ### Ejecutados
 
-:::{style="margin-top: -12px; margin-bottom: -16px;"}
+:::{style="margin-bottom: -16px;"}
 Representación visual de las vidas arrebatadas por la dictadura, donde cada cruz representa a 10 personas asesinadas o ejecutadas por el Estado.
 :::
 
@@ -695,6 +695,113 @@ De acuerdo a sus familiares, Suzana tenía un diagnostico de **esquizofrenia**, 
 
 
 :::
+
+
+## Centros de detención
+
+::: {.titulo}
+Sitios de tormento, exterminio y encierro
+:::
+
+::: {.bajada}
+campos de concentración oficiales y clandestinos
+:::
+
+Para llevar a cabo su proyecto político, una acción clave fue la eliminación del disenso. El régimen militar estableció una red de más de 1.000 centros de detención en todo el país, con el objetivo de imposibilitar la organización social y política mediante la directa reclusión y eliminación de ciudadanos.
+
+::: {.centros}
+### Estadio Nacional
+
+En sus dependencias fueron detenidas más de 40.000 personas, y ocurrieron al menos 40 ejecuciones. Dentro se realizaron torturas, secuestros, y simulación de fusilamientos. En las graderías del estadio estaba el grueso de los detenidos, mientras que en camarines, salones y baños estaban los dirigentes sociales, políticos, y militantes.
+
+![](img/centros/estadio_nacional.jpeg)
+
+Desde ahí eran derivados a otros centros de detención y torturas. Funcionó por 2 meses, dado que estaba previsto un partido del mundial de fútbol entre Chile y la Unión Soviética. El equipo soviético se negó a jugar en lo que fue un campo de concentración.
+
+[Más información sobre el sitio de memoria](https://www.memoriaestadionacional.cl)
+
+
+### Estadio Chile
+
+Ahora conocido como Estadio Víctor Jara, por la tortura y cruel asesinato del artista y cantautor **Víctor Jara** el 16 de septiembre. Por este centro de detención pasaron aproximadamente 200 prisioneros, gran cantidad de ellos desde la Univerisidad Técnica del Estado. 
+
+![](img/centros/victor_jara.jpeg)
+
+Se caracterizó por su incomunicación, régimen disciplinario, luces encendidas permanentemente y alimentación irregular. Dentro se propinó violencia física, simulacros de ejecución, colgamientos, aplicación de electricidad, vejaciones sexuales y violaciones, y la exposición pública de ejecuciones.
+
+[Más información sobre el sitio de memoria](https://estadiovictorjara.cl)
+
+### 3 y 4 Álamos
+
+Centro de detención y campo de concentración que operó entre 1974 y 1978 bajo la DINA. Caracterizado por un régimen de incomunicación, donde los prisioneros entraban y salían con la vista vendada. Por el centro pasaron más de 6.000 personas. 
+
+![](img/centros/3y4alamos.jpg)
+
+_3 Álamos_ fue el campos de concentración donde pasó mayor cantidad de prisioneros, administrado por Carabineros, y funcionaba como una prisión de tránsito hacia otros centros, donde no se torturaba. Por otro lado, _4 Álamos_ era un recinto secreto administrado por la DINA, que operaba como pabellón de incomunicación, con 500 presos políticos, muchos de ellos hechos desaparecer.
+
+[Más información sobre el sitio de memoria](https://3y4alamos.com)
+
+### Londres 38
+
+Centro de detención y tortura operado por la DINA entre 1973 y 1974, antigua sede del Partido Socialista de Chile. Era considerado el primer eslabón de una cadena de recintos de reclusión utilizados por la DINA. Por él pasaron aproximadamente 1.100 personas, más de 90 de ellas fueron ejecutados políticos. 
+
+![](img/centros/londres38.jpg)
+
+Sus métodos de represión, tortura y extermino usados fueron brutales, caracterizados por interrogatorios inmediatos de permanente trato vejatorio y aplicación de torturas extremas. Se les vendaba y amarraba a una silla, eran desnudados, y no se les daba alimentación.recibían alimentación y sólo excepcionalmente se les daba de beber.
+
+[Más información sobre el sitio de memoria](https://londres38.cl/)
+
+:::
+
+::::: {.testimonios style="margin-top: 32px; margin-bottom: -24px;"}
+
+[“]{.comilla}
+
+:::: {.testimonio}
+
+...sufrieron brutales torturas en este recinto, permanecían vendados, generalmente amarrados a una silla, eran desnudados y no recibían alimentación y sólo excepcionalmente se les daba de beber. Denunciaron que fueron sometidos a interrogatorios durante todo el tiempo de su permanencia. Durante los interrogatorios los prisioneros fueron torturados con golpes, en ocasiones hasta causarles fracturas; pau de arara, el submarino seco y el mojado, con aplicación de electricidad en la parrilla, colgamiento, quemaduras con cigarrillos, el teléfono; fueron sometidos a la ruleta rusa; se les administraban drogas; estaban expuestos a ruidos molestos durante la noche para impedirles dormir, especialmente música a todo volumen. Eran obligados a escuchar y presenciar torturas a otros detenidos; fueron objeto de vejaciones y violaciones sexuales, de simulacros de fusilamiento, de amenazas y manipulación psicológica.
+
+
+::: {.firma}
+(Informe de la Comisión Nacional de Comisión Prisión Política y Tortura)
+:::
+::::
+
+::::
+
+::: {.centros}
+### Villa Grimaldi
+
+Cuartel central de la Brigada de Inteligencia Metropolitana (BIM), luego ocupado por la DINA y dirigido por **Manuel Contreras**. 
+
+![](img/centros/villa_grimaldi.jpeg)
+
+Se estima que 5.000 personas pasaron por el centro de detención Villa Grimaldi, de las cuales 18 fueron ejecutados políticos y 211 permanecen hasta hoy como detenidos desaparecidos.
+
+[Más información sobre el sitio de memoria](https://villagrimaldi.cl)
+
+### Venda Sexy
+
+Centro de detención y tortura operado por la dina DINA entre 1974 y 1975, en forma paralela a Villa Grimaldi. Se caracterizó porque los prisioneros que eran detenidos en este recinto serían después asesinados o hechos desaparecer, por lo que los métodos de represión aplicados fueron extremos. 
+
+![](img/centros/venda_sexy.jpg)
+
+Se le llamó _Venda Sexy_ por el uso de vendas para cegar a las personas detenidas, mientras eran sometidos a vejaciones y torturas sexuales de manera constante, usando también un perro pastor alemán adiestrado por la Mayor de Carabineros, **lngrid Olderóck**. Sólo se torturaba durante horario de oficina.
+
+[Más información sobre el sitio de memoria](https://iran3037.cl)
+
+### Rocas de Santo Domingo
+
+Recinto que originalmente fue un Balneario Popular durante el gobierno de la Unidad Popular. 
+
+![](img/centros/rocas_santo_domingo.jpeg)
+
+Entre 1973 y 1976 fue usado como centro de detención clandestino y de entrenamiento para agentes de la DINA, en tanto anexo al centro de detención clandestino del Regimiento Tejas Verdes. A partir de 1977 pasa a ser usado como lugar de veraneo para los agentes de la DINA.
+
+[Más información sobre el sitio de memoria](https://www.memoriarocas.cl)
+
+:::
+
 
 
 

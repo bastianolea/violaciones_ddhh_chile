@@ -10,14 +10,14 @@ body {
     font-family: 'Barlow', sans-serif;
     line-height: 1.2 !important;
     font-size: 14pt !important;
-    text-align: justify !important;
+    text-align: justify;
     text-justify: auto;
     word-break: normal;
     hyphens: auto;
   }
 
 strong {
-font-weight: 800;
+  font-weight: 800;
 }
 
 
@@ -65,10 +65,10 @@ h2 {
 
 h3, .h3, .subtitulo {
   font-family: 'Barlow Semi Condensed', sans-serif !important;
-  font-weight: 500 !important;
-  font-size: 18pt !important;
+  font-weight: 500;
+  font-size: 18pt;
   text-align: center !important;
-  line-height: 1 !important;
+  line-height: 1;
   color: white;
   text-transform: uppercase !important;
 }
@@ -396,4 +396,40 @@ li {
 /* imagen en header */
 .navbar-logo {
   max-height: 48px;
+}
+
+
+.centros {
+  margin-right: 60px;
+  
+  h3 {
+    font-family: 'Barlow Semi Condensed', sans-serif !important;
+    text-transform: uppercase !important;
+    font-weight: bold;
+    font-size: 130%;
+    text-align: left !important;
+    display: inline-block;
+    line-height: 1.1;
+    margin-block-end: 0 !important;
+    margin-bottom: 0 !important;
+    margin-right: 6px;
+  }
+  
+  p {
+    display: inline;
+    font-family: Courier New, monospace;
+    font-size: 84%;
+    line-height: 1;
+  }
+  
+  img {
+    float: right; 
+    vertical-align: bottom; 
+    max-width: 50%; 
+    max-height: 180px;
+    margin-right: -60px;
+    margin-top: 12px !important; 
+    margin-left: 12px !important;
+    border: solid white 6px;
+  }
 }
