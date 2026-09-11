@@ -432,6 +432,81 @@ Esta práctica de **eliminación selectiva** también se constituyó en un méto
 
 ![](img/violaciones_ddhh_chile_22a.png){fig-alt="34% obreros y campesinos, 19% estudiantes, 17% trabajadores independientes, 11% profesionales y funcionarios"}
 
+
+
+
+### Detenidos desaparecidos según región del país
+
+Los agentes de la dictadura, apoyados por civiles, desaparecieron compatriotas a través de casi todo el territorio nacional.
+
+![](img/violaciones_ddhh_chile_22b.png)
+
+Más de la mitad de las desapariciones ocurrieron en la Región Metropolitana.
+
+
+
+
+::::: {.caja style="margin-top:34px;"}
+
+### Por negarse a reprimir su pueblo
+
+:::: {.caja-texto}
+
+Con tan sólo 19 años, **Michel Nash** se encontraba realizando el servicio militar para el golpe de Estado. Su tragedia lo volvió en un ejemplo de **conciencia y resistencia** ante la violencia Estatal.[25, 26]{.nota} 
+
+![](img/michel_nash.jpg){style="max-width:40%; max-height:220px; float:left; margin-right:14px; margin-left:0; margin-top:4px; margin-bottom:4px;"}
+
+Siendo parte del ejército como conscripto, se le dio la instrucción de participar de allanamientos y detención de personas, conforme a las órdenes de la recién instaurada dictadura militar. Michel se negó a reprimir civiles opositores al régimen, presentándose ante sus superiores para pedir que se le diera de baja, dado que le resultaba inconcebible reprimir a su propio pueblo. 
+
+Como represalia a su rebeldía, Michel fue detenido y llevado al **campo de prisioneros de Pisagua**, en la región de Tarapacá. Luego de días de **detención y tortura**, un oficial lo seleccionó específicamente a él, junto a otros 5 prisioneros, supuestamente para realizar trabajos fuera del recinto. A pesar de que Michel se encontraba en deplorable condición física producto de las torturas, se vio forzado a obedecer. Ese día, militares informaron que Michel Nash había sido **ejecutado** durante un supuesto intento de fuga. El cuerpo de Michel fue desaparecido. 
+
+Su madre, Ana Sáez, lo buscó durante 44 años. Ella falleció en 2018, sin haber podido darle descanso al cuerpo de su hijo.
+::::
+:::::
+
+
+### Desapariciones forzadas por año
+
+La gran mayoría de las desapariciones se llevaron a cabo durante los primeros años de la dictadura, la cual actuó con rapidez para erradicar toda forma de oposición u organización política.
+
+![](img/violaciones_ddhh_chile_23.png)
+
+
+
+
+:::{style="margin-top:20px;"}
+![](img/familiares_dddd.jpeg)
+:::
+
+::: {.pie-figura}
+Las y los familiares de detenidos desaparecidos siguen buscando incansablemente justicia y verdad.
+:::
+
+
+## Mujeres
+
+::: {.titulo}
+Mujeres víctimas de violencia dictatorial
+:::
+
+::: {.bajada}
+Intensificación sexista y patriarcal de la crueldad
+:::
+
+El horror no tuvo ningún tipo de consideración por las mujeres, ni siquiera aquellas menores de edad. Por el contrario, la violencia ejercida contra ellas fue multiplicada por vejaciones sexuales y misóginas.[33]{.nota}
+
+::::{style="margin-left:40px; margin-right:40px; margin-top: 20px; margin-bottom: 28px;"}
+
+[Guadalupe del Carmen Chamorro Leiva]{.blanco}, adolescente de **18 años**, asesora del hogar, que fue asesinada por un disparo mientras transitaba por la vía pública durante una manifestación estudiantil, en 1986.
+
+[Nadia del Carmen Fuentes Concha]{.blanco}, una menor de **13 años** que, mientras salió a comprar el pan, fue asesinada de un disparo de Carabineros el 2 de julio de 1986.
+
+[Claudia Andrea Valenzuela Velásquez]{.blanco}, niña de **6 años** ejecutada junto a sus padres en su propio hogar a manos de Carabineros, en septiembre de 1973.
+
+[Susana Elizabeth Sanhueza Salinas]{.blanco}, niña de **3 años** que se encontraba jugando en el antejardín de su casa, fallecida producto de un enfrentamiento entre el MIR y la DINA el 24 de febrero de 1976.
+::::
+
+
 ### Mujeres detenidas desaparecidas
 
 Se contabilizan más de [60 mujeres detenidas desaparecidas]{.blanco} por la dictadura cívico-militar.
@@ -508,78 +583,6 @@ El silencio de los victimarios y sus cómplices ha mantenido en la oscuridad el 
 
 :::: 
 
-
-
-### Detenidos desaparecidos según región del país
-
-Los agentes de la dictadura, apoyados por civiles, desaparecieron compatriotas a través de casi todo el territorio nacional.
-
-![](img/violaciones_ddhh_chile_22b.png)
-
-Más de la mitad de las desapariciones ocurrieron en la Región Metropolitana.
-
-
-
-
-::::: {.caja style="margin-top:34px;"}
-
-### Por negarse a reprimir su pueblo
-
-:::: {.caja-texto}
-
-Con tan sólo 19 años, **Michel Nash** se encontraba realizando el servicio militar para el golpe de Estado. Su tragedia lo volvió en un ejemplo de **conciencia y resistencia** ante la violencia Estatal.[25, 26]{.nota} 
-
-![](img/michel_nash.jpg){style="max-width:40%; max-height:220px; float:left; margin-right:14px; margin-left:0; margin-top:4px; margin-bottom:4px;"}
-
-Siendo parte del ejército como conscripto, se le dio la instrucción de participar de allanamientos y detención de personas, conforme a las órdenes de la recién instaurada dictadura militar. Michel se negó a reprimir civiles opositores al régimen, presentándose ante sus superiores para pedir que se le diera de baja, dado que le resultaba inconcebible reprimir a su propio pueblo. 
-
-Como represalia a su rebeldía, Michel fue detenido y llevado al **campo de prisioneros de Pisagua**, en la región de Tarapacá. Luego de días de **detención y tortura**, un oficial lo seleccionó específicamente a él, junto a otros 5 prisioneros, supuestamente para realizar trabajos fuera del recinto. A pesar de que Michel se encontraba en deplorable condición física producto de las torturas, se vio forzado a obedecer. Ese día, militares informaron que Michel Nash había sido **ejecutado** durante un supuesto intento de fuga. El cuerpo de Michel fue desaparecido. 
-
-Su madre, Ana Sáez, lo buscó durante 44 años. Ella falleció en 2018, sin haber podido darle descanso al cuerpo de su hijo.
-::::
-:::::
-
-
-### Desapariciones forzadas por año
-
-La gran mayoría de las desapariciones se llevaron a cabo durante los primeros años de la dictadura, la cual actuó con rapidez para erradicar toda forma de oposición u organización política.
-
-![](img/violaciones_ddhh_chile_23.png)
-
-
-
-
-:::{style="margin-top:20px;"}
-![](img/familiares_dddd.jpeg)
-:::
-
-::: {.pie-figura}
-Las y los familiares de detenidos desaparecidos siguen buscando incansablemente justicia y verdad.
-:::
-
-
-## Mujeres
-
-::: {.titulo}
-Mujeres víctimas de violencia dictatorial
-:::
-
-::: {.bajada}
-Intensificación sexista y patriarcal de la crueldad
-:::
-
-El horror no tuvo ningún tipo de consideración por las mujeres, ni siquiera aquellas menores de edad. Por el contrario, la violencia ejercida contra ellas fue multiplicada por vejaciones sexuales y misóginas.[33]{.nota}
-
-::::{style="margin-left:40px; margin-right:40px; margin-top: 20px; margin-bottom: 28px;"}
-
-[Guadalupe del Carmen Chamorro Leiva]{.blanco}, adolescente de **18 años**, asesora del hogar, que fue asesinada por un disparo mientras transitaba por la vía pública durante una manifestación estudiantil, en 1986.
-
-[Nadia del Carmen Fuentes Concha]{.blanco}, una menor de **13 años** que, mientras salió a comprar el pan, fue asesinada de un disparo de Carabineros el 2 de julio de 1986.
-
-[Claudia Andrea Valenzuela Velásquez]{.blanco}, niña de **6 años** ejecutada junto a sus padres en su propio hogar a manos de Carabineros, en septiembre de 1973.
-
-[Susana Elizabeth Sanhueza Salinas]{.blanco}, niña de **3 años** que se encontraba jugando en el antejardín de su casa, fallecida producto de un enfrentamiento entre el MIR y la DINA el 24 de febrero de 1976.
-::::
 
 ::::: {.caja}
 
